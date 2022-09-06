@@ -92,3 +92,5 @@ DerivedDataCache/*
 fmod_editor.log
 
 TestingVC/Plugins/FMODStudio/Docs/
+
+TestingVC/Saved/Logs/TestingVC.log
