@@ -970,3 +970,1172 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.06-01.34.11:704][366]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/UE Projects/TestingVC'
 [2022.09.06-01.34.11:808][366]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'E:/Version Control/TestingVCUE/TestingVC/Plugins/FMODStudio/Content/AnimNotify_FMODPlayEvent.uasset'. Attempt result was 'E:/Version Control/TestingVCUE/TestingVC/Plugins/FMODStudio/Content/AnimNotify_FMODPlayEvent', but the path contains illegal characters ':'
 [2022.09.06-01.34.11:810][366]EditorErrors: Warning: No assets to check in!
+[2022.09.06-01.35.15:980][127]LogFMOD: Loading strings bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/Master.strings.bank
+[2022.09.06-01.35.15:982][127]LogFMOD: Adding asset: /Game/FMOD/Buses/SFX/Objects
+[2022.09.06-01.35.15:982][127]LogFMOD: Adding asset: /Game/FMOD/Events/Weapons/Pistol
+[2022.09.06-01.35.15:982][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {03c85dcf-c4eb-4094-83c7-7839b5d058e8}
+
+[2022.09.06-01.35.15:982][127]LogFMOD: Adding asset: /Game/FMOD/Events/RandomSoundFromEvent
+[2022.09.06-01.35.15:982][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {07081c38-9bdf-4407-8c70-4ca90d3869b7}
+
+[2022.09.06-01.35.15:982][127]LogFMOD: 'Car Engine' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Car_Engine' instead.
+[2022.09.06-01.35.15:982][127]LogFMOD: Adding asset: /Game/FMOD/Events/Vehicles/Car_Engine
+[2022.09.06-01.35.15:982][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {0c8363b4-23af-4f9c-af4b-0951bfd37d84}
+
+[2022.09.06-01.35.15:982][127]LogFMOD: '/Game/FMOD/Events/Programmer Instruments/TestSound' cannot be used as a UE4 asset path. Name may not contain the following characters:  . Using '/Game/FMOD/Events/Programmer_Instruments/TestSound' instead.
+[2022.09.06-01.35.15:983][127]LogFMOD: Adding asset: /Game/FMOD/Events/Programmer_Instruments/TestSound
+[2022.09.06-01.35.15:983][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {0d03b558-d012-41c4-b05b-37467fa114b3}
+
+[2022.09.06-01.35.15:983][127]LogFMOD: '/Game/FMOD/Events/Programmer Instruments/BabyElephantWalk' cannot be used as a UE4 asset path. Name may not contain the following characters:  . Using '/Game/FMOD/Events/Programmer_Instruments/BabyElephantWalk' instead.
+[2022.09.06-01.35.15:983][127]LogFMOD: Adding asset: /Game/FMOD/Events/Programmer_Instruments/BabyElephantWalk
+[2022.09.06-01.35.15:983][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {129010d1-27cd-47d3-ab9c-2bfd7a1be7c7}
+
+[2022.09.06-01.35.15:983][127]LogFMOD: 'Enemy Footsteps' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Enemy_Footsteps' instead.
+[2022.09.06-01.35.15:983][127]LogFMOD: Adding asset: /Game/FMOD/Events/Character/Enemy_Footsteps
+[2022.09.06-01.35.15:983][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {14b5293f-f69e-48e5-a7ae-ce02710ca3d9}
+
+[2022.09.06-01.35.15:983][127]LogFMOD: Adding asset: /Game/FMOD/Events/WindSpeedDepedningOnVel
+[2022.09.06-01.35.15:983][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {15c79393-7b3b-420a-8ab0-6241928b3d66}
+
+[2022.09.06-01.35.15:983][127]LogFMOD: '/Game/FMOD/Events/Programmer Instruments/Intrument' cannot be used as a UE4 asset path. Name may not contain the following characters:  . Using '/Game/FMOD/Events/Programmer_Instruments/Intrument' instead.
+[2022.09.06-01.35.15:983][127]LogFMOD: Adding asset: /Game/FMOD/Events/Programmer_Instruments/Intrument
+[2022.09.06-01.35.15:983][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {1c4eda36-1897-45ff-9715-f4dabf3c2d63}
+
+[2022.09.06-01.35.15:983][127]LogFMOD: 'Kart Music' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Kart_Music' instead.
+[2022.09.06-01.35.15:983][127]LogFMOD: Adding asset: /Game/FMOD/Events/Music/Kart_Music
+[2022.09.06-01.35.15:983][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {1c864700-6986-45f1-a7e8-329359bc30ea}
+
+[2022.09.06-01.35.15:983][127]LogFMOD: '/Game/FMOD/Events/Programmer Instruments/CommandInstrument' cannot be used as a UE4 asset path. Name may not contain the following characters:  . Using '/Game/FMOD/Events/Programmer_Instruments/CommandInstrument' instead.
+[2022.09.06-01.35.15:983][127]LogFMOD: Adding asset: /Game/FMOD/Events/Programmer_Instruments/CommandInstrument
+[2022.09.06-01.35.15:983][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {1eadc35e-389c-493f-b432-7a3a949e93ed}
+
+[2022.09.06-01.35.15:984][127]LogFMOD: Adding asset: /Game/FMOD/Events/Weapons/Explosion
+[2022.09.06-01.35.15:984][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {1f687138-e06c-40f5-9bac-57f84bbcedd3}
+
+[2022.09.06-01.35.15:984][127]LogFMOD: Adding asset: /Game/FMOD/Events/Character/Health
+[2022.09.06-01.35.15:984][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {22f3fed6-2b45-4fff-aa85-5351bc5fe9cd}
+
+[2022.09.06-01.35.15:984][127]LogFMOD: Adding asset: /Game/FMOD/Events/Ambience/Country
+[2022.09.06-01.35.15:984][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {249ac74e-6ea4-4648-81da-206c4e22b801}
+
+[2022.09.06-01.35.15:984][127]LogFMOD: Adding asset: /Game/FMOD/Events/UI/Cancel
+[2022.09.06-01.35.15:984][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {2a3e48e6-94fc-4363-9468-33d2dd4d7b00}
+
+[2022.09.06-01.35.15:984][127]LogFMOD: Adding asset: /Game/FMOD/Banks/Vehicles
+[2022.09.06-01.35.15:984][127]LogFMOD: Adding asset: /Game/FMOD/Buses/SFX/Vehicles
+[2022.09.06-01.35.15:984][127]LogFMOD: '/Game/FMOD/Events/Programmer Instruments/ElectricFence' cannot be used as a UE4 asset path. Name may not contain the following characters:  . Using '/Game/FMOD/Events/Programmer_Instruments/ElectricFence' instead.
+[2022.09.06-01.35.15:984][127]LogFMOD: Adding asset: /Game/FMOD/Events/Programmer_Instruments/ElectricFence
+[2022.09.06-01.35.15:984][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {3a11bdfa-95d0-4203-8dbe-9cc34d1d6276}
+
+[2022.09.06-01.35.15:984][127]LogFMOD: Adding asset: /Game/FMOD/Buses/SFX/Character
+[2022.09.06-01.35.15:984][127]LogFMOD: Adding asset: /Game/FMOD/VCAs/Environment
+[2022.09.06-01.35.15:985][127]LogFMOD: 'Door Close' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Door_Close' instead.
+[2022.09.06-01.35.15:985][127]LogFMOD: Adding asset: /Game/FMOD/Events/Character/Door_Close
+[2022.09.06-01.35.15:985][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {43108f44-285c-4877-a785-4ae97ed0fb3d}
+
+[2022.09.06-01.35.15:985][127]LogFMOD: 'Radio Dialogue' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Radio_Dialogue' instead.
+[2022.09.06-01.35.15:985][127]LogFMOD: Adding asset: /Game/FMOD/Events/Character/Radio_Dialogue
+[2022.09.06-01.35.15:985][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {43c41f87-701f-4c25-a9a1-c619ca106412}
+
+[2022.09.06-01.35.15:985][127]LogFMOD: Adding asset: /Game/FMOD/Events/Ambience/Forest
+[2022.09.06-01.35.15:985][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {477410e5-4a6d-462e-bd1e-4d558ce488ec}
+
+[2022.09.06-01.35.15:985][127]LogFMOD: Adding asset: /Game/FMOD/Events/ReaddingEvent
+[2022.09.06-01.35.15:985][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {4fba2417-73ec-4d9a-a4ca-af339e92a420}
+
+[2022.09.06-01.35.15:985][127]LogFMOD: Adding asset: /Game/FMOD/Buses/TestingGroup
+[2022.09.06-01.35.15:985][127]LogFMOD: Adding asset: /Game/FMOD/Buses/SFX/Reverb
+[2022.09.06-01.35.15:985][127]LogFMOD: Adding asset: /Game/FMOD/Banks/SFX
+[2022.09.06-01.35.15:985][127]LogFMOD: 'Door Open' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Door_Open' instead.
+[2022.09.06-01.35.15:985][127]LogFMOD: Adding asset: /Game/FMOD/Events/Character/Door_Open
+[2022.09.06-01.35.15:985][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {62855218-a8f3-470f-ab7a-8af8f7df77bb}
+
+[2022.09.06-01.35.15:985][127]LogFMOD: Adding asset: /Game/FMOD/VCAs/Player
+[2022.09.06-01.35.15:986][127]LogFMOD: Adding asset: /Game/FMOD/Buses/UI
+[2022.09.06-01.35.15:986][127]LogFMOD: Adding asset: /Game/FMOD/Buses/VO
+[2022.09.06-01.35.15:986][127]LogFMOD: Adding asset: /Game/FMOD/Snapshots/Slow-Motion
+[2022.09.06-01.35.15:986][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {6e8d8d09-12e0-48cf-b620-f9cc3bc478a3}
+
+[2022.09.06-01.35.15:986][127]LogFMOD: Constructing snapshot reverb asset: /Game/FMOD/Reverbs/Slow-Motion
+[2022.09.06-01.35.15:986][127]LogFMOD: 'Level 01' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Level_01' instead.
+[2022.09.06-01.35.15:986][127]LogFMOD: Adding asset: /Game/FMOD/Events/Music/Level_01
+[2022.09.06-01.35.15:986][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {74bbba7c-76e8-488c-9cf9-67f000df1ffd}
+
+[2022.09.06-01.35.15:986][127]LogFMOD: 'Ride-on Mower' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Ride-on_Mower' instead.
+[2022.09.06-01.35.15:986][127]LogFMOD: Adding asset: /Game/FMOD/Events/Vehicles/Ride-on_Mower
+[2022.09.06-01.35.15:986][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {7aa5e8f1-8ec2-42c6-b465-1241a603a055}
+
+[2022.09.06-01.35.15:986][127]LogFMOD: Adding asset: /Game/FMOD/Buses/Music
+[2022.09.06-01.35.15:986][127]LogFMOD: Adding asset: /Game/FMOD/Banks/Master
+[2022.09.06-01.35.15:986][127]LogFMOD: 'Health Low' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Health_Low' instead.
+[2022.09.06-01.35.15:986][127]LogFMOD: Adding asset: /Game/FMOD/Snapshots/Health_Low
+[2022.09.06-01.35.15:987][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {87ea4134-fff1-4e9d-8f8b-294a2b518223}
+
+[2022.09.06-01.35.15:987][127]LogFMOD: Constructing snapshot reverb asset: /Game/FMOD/Reverbs/Health_Low
+[2022.09.06-01.35.15:987][127]LogFMOD: '/Game/FMOD/Events/Programmer Instruments/AddAutomation' cannot be used as a UE4 asset path. Name may not contain the following characters:  . Using '/Game/FMOD/Events/Programmer_Instruments/AddAutomation' instead.
+[2022.09.06-01.35.15:987][127]LogFMOD: Adding asset: /Game/FMOD/Events/Programmer_Instruments/AddAutomation
+[2022.09.06-01.35.15:987][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {89d78893-d889-47e6-9dfe-7bf431c0d1ce}
+
+[2022.09.06-01.35.15:987][127]LogFMOD: Adding asset: /Game/FMOD/Buses/Testing
+[2022.09.06-01.35.15:987][127]LogFMOD: Adding asset: /Game/FMOD/Events/UI/Okay
+[2022.09.06-01.35.15:987][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {92479e97-94c6-4564-9e33-efbeec59b34a}
+
+[2022.09.06-01.35.15:987][127]LogFMOD: Adding asset: /Game/FMOD/Events/Character/Dialogue
+[2022.09.06-01.35.15:987][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {9aa2ecc5-ea4b-4ebe-85c3-054b11b21dcd}
+
+[2022.09.06-01.35.15:987][127]LogFMOD: Adding asset: /Game/FMOD/Banks/Music
+[2022.09.06-01.35.15:988][127]LogFMOD: 'Main Menu' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Main_Menu' instead.
+[2022.09.06-01.35.15:988][127]LogFMOD: Adding asset: /Game/FMOD/Events/VO/Main_Menu
+[2022.09.06-01.35.15:988][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {a7b81216-fb0b-4b9c-9e7d-b897825d9821}
+
+[2022.09.06-01.35.15:988][127]LogFMOD: 'Radio Station' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Radio_Station' instead.
+[2022.09.06-01.35.15:988][127]LogFMOD: Adding asset: /Game/FMOD/Events/Music/Radio_Station
+[2022.09.06-01.35.15:988][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {b36aaf9f-2f14-4c45-8cf0-fc622a0ea38a}
+
+[2022.09.06-01.35.15:988][127]LogFMOD: Adding asset: /Game/FMOD/Events/Music/BabyWalk
+[2022.09.06-01.35.15:988][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {b65c7d40-a7e9-4f1d-b395-8a11f6e8504e}
+
+[2022.09.06-01.35.15:988][127]LogFMOD: 'Cave Reverb' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Cave_Reverb' instead.
+[2022.09.06-01.35.15:988][127]LogFMOD: Adding asset: /Game/FMOD/Snapshots/Reverb/Cave_Reverb
+[2022.09.06-01.35.15:988][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {b695eec0-fe78-4755-b806-9690c06dfc0b}
+
+[2022.09.06-01.35.15:988][127]LogFMOD: Constructing snapshot reverb asset: /Game/FMOD/Reverbs/Reverb/Cave_Reverb
+[2022.09.06-01.35.15:988][127]LogFMOD: 'Programmer Instrument' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Programmer_Instrument' instead.
+[2022.09.06-01.35.15:988][127]LogFMOD: Adding asset: /Game/FMOD/Banks/Programmer_Instrument
+[2022.09.06-01.35.15:988][127]LogFMOD: Adding asset: /Game/FMOD/Events/Ambience/City
+[2022.09.06-01.35.15:988][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {bb98917e-d65b-41f0-a0ca-c50756da3f0e}
+
+[2022.09.06-01.35.15:988][127]LogFMOD: 'Wooden Collision' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Wooden_Collision' instead.
+[2022.09.06-01.35.15:989][127]LogFMOD: Adding asset: /Game/FMOD/Events/Interactables/Wooden_Collision
+[2022.09.06-01.35.15:989][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {be6203d8-c8d8-41c5-8ce6-bce0de95807b}
+
+[2022.09.06-01.35.15:989][127]LogFMOD: Adding asset: /Game/FMOD/VCAs/Equipment
+[2022.09.06-01.35.15:989][127]LogFMOD: 'Sewer Reverb' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Sewer_Reverb' instead.
+[2022.09.06-01.35.15:989][127]LogFMOD: Adding asset: /Game/FMOD/Snapshots/Reverb/Sewer_Reverb
+[2022.09.06-01.35.15:989][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {c107e28e-873b-4caa-9492-68fe72210c48}
+
+[2022.09.06-01.35.15:989][127]LogFMOD: Constructing snapshot reverb asset: /Game/FMOD/Reverbs/Reverb/Sewer_Reverb
+[2022.09.06-01.35.15:989][127]LogFMOD: 'Barrel Roll' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Barrel_Roll' instead.
+[2022.09.06-01.35.15:989][127]LogFMOD: Adding asset: /Game/FMOD/Events/Interactables/Barrel_Roll
+[2022.09.06-01.35.15:989][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {c42c2240-c4b6-42ed-a473-1a47f19945ea}
+
+[2022.09.06-01.35.15:989][127]LogFMOD: 'Level 02' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Level_02' instead.
+[2022.09.06-01.35.15:989][127]LogFMOD: Adding asset: /Game/FMOD/Events/Music/Level_02
+[2022.09.06-01.35.15:989][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {c7f946fd-d695-499b-a820-752799c4921d}
+
+[2022.09.06-01.35.15:989][127]LogFMOD: Adding asset: /Game/FMOD/Buses/SFX
+[2022.09.06-01.35.15:989][127]LogFMOD: 'Programmer Instrument' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Programmer_Instrument' instead.
+[2022.09.06-01.35.15:989][127]LogFMOD: Adding asset: /Game/FMOD/Buses/Programmer_Instrument
+[2022.09.06-01.35.15:989][127]LogFMOD: Adding asset: /Game/FMOD/Banks/VO
+[2022.09.06-01.35.15:990][127]LogFMOD: Adding asset: /Game/FMOD/Events/VO/Welcome
+[2022.09.06-01.35.15:990][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {d7eabb29-abd9-4057-b408-eef937d66f2a}
+
+[2022.09.06-01.35.15:990][127]LogFMOD: Adding asset: /Game/FMOD/Buses/SFX/Ambience
+[2022.09.06-01.35.15:990][127]LogFMOD: Adding asset: /Game/FMOD/Buses/SFX/Explosions
+[2022.09.06-01.35.15:990][127]LogFMOD: Adding asset: /Game/FMOD/Buses/SFX/Weapons
+[2022.09.06-01.35.15:990][127]LogFMOD: Adding asset: /Game/FMOD/Snapshots/Pause
+[2022.09.06-01.35.15:990][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {e305a498-2b18-461d-b35c-6eaea45fafd6}
+
+[2022.09.06-01.35.15:990][127]LogFMOD: Constructing snapshot reverb asset: /Game/FMOD/Reverbs/Pause
+[2022.09.06-01.35.15:990][127]LogFMOD: Adding asset: /Game/FMOD/Banks/NewBankToTest
+[2022.09.06-01.35.15:990][127]LogFMOD: 'Player Footsteps' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Player_Footsteps' instead.
+[2022.09.06-01.35.15:990][127]LogFMOD: Adding asset: /Game/FMOD/Events/Character/Player_Footsteps
+[2022.09.06-01.35.15:990][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {e905d401-76f5-4741-a885-f7844b244671}
+
+[2022.09.06-01.35.15:990][127]LogFMOD: 'Machine Gun' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Machine_Gun' instead.
+[2022.09.06-01.35.15:990][127]LogFMOD: Adding asset: /Game/FMOD/Events/Weapons/Machine_Gun
+[2022.09.06-01.35.15:990][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {e9b7aafa-2df0-4193-b32e-a74e5753cfa0}
+
+[2022.09.06-01.35.15:991][127]LogFMOD: Adding asset: /Game/FMOD/Banks/LiveSwapInTable
+[2022.09.06-01.35.15:991][127]LogFMOD: 'Level 03' cannot be used as a UE4 asset name. Name may not contain the following characters:  . Using 'Level_03' instead.
+[2022.09.06-01.35.15:991][127]LogFMOD: Adding asset: /Game/FMOD/Events/Music/Level_03
+[2022.09.06-01.35.15:991][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {ec16145a-3712-4b1c-9944-ce26875a548b}
+
+[2022.09.06-01.35.15:991][127]LogFMOD: Adding asset: /Game/FMOD/Banks/TestingSound
+[2022.09.06-01.35.16:945][127]SourceControl: Error: warning: could not open directory 'TestingVC/Content/FMOD/Buses/': No such file or directory
+[2022.09.06-01.35.16:945][127]SourceControl: Error: warning: could not open directory 'TestingVC/Content/FMOD/Events/': No such file or directory
+[2022.09.06-01.35.16:945][127]SourceControl: Error: warning: could not open directory 'TestingVC/Content/FMOD/Events/': No such file or directory
+[2022.09.06-01.35.16:945][127]SourceControl: Error: warning: could not open directory 'TestingVC/Content/FMOD/Events/': No such file or directory
+[2022.09.06-01.35.16:945][127]SourceControl: Error: warning: could not open directory 'TestingVC/Content/FMOD/Events/': No such file or directory
+[2022.09.06-01.35.16:945][127]SourceControl: Error: warning: could not open directory 'TestingVC/Content/FMOD/Events/': No such file or directory
+[2022.09.06-01.35.16:945][127]SourceControl: Error: warning: could not open directory 'TestingVC/Content/FMOD/Events/': No such file or directory
+[2022.09.06-01.35.16:945][127]SourceControl: Error: warning: could not open directory 'TestingVC/Content/FMOD/Events/': No such file or directory
+[2022.09.06-01.35.16:945][127]SourceControl: Error: warning: could not open directory 'TestingVC/Content/FMOD/Events/': No such file or directory
+[2022.09.06-01.35.16:945][127]SourceControl: Error: warning: could not open directory 'TestingVC/Content/FMOD/Snapshots/': No such file or directory
+[2022.09.06-01.35.16:945][127]SourceControl: Error: warning: could not open directory 'TestingVC/Content/FMOD/Reverbs/': No such file or directory
+[2022.09.06-01.35.16:945][127]SourceControl: Error: warning: could not open directory 'TestingVC/Content/FMOD/Events/': No such file or directory
+[2022.09.06-01.35.16:956][127]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.06-01.35.16:974][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/PrivateIntegrationData/BankLookup" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/PrivateIntegrationData/BankLookup.uasset" SILENT=true
+[2022.09.06-01.35.16:976][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/BankLookupEF42BC784713FE076ACA268B87B8875B.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/PrivateIntegrationData/BankLookup.uasset'
+[2022.09.06-01.35.17:146][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/SFX/Objects" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Objects.uasset" SILENT=true
+[2022.09.06-01.35.17:147][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/ObjectsBF4904C44D82F66BF11F07B2820D9677.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Objects.uasset'
+[2022.09.06-01.35.17:314][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {03c85dcf-c4eb-4094-83c7-7839b5d058e8}
+
+[2022.09.06-01.35.17:315][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Weapons/Pistol" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Weapons/Pistol.uasset" SILENT=true
+[2022.09.06-01.35.17:315][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {03c85dcf-c4eb-4094-83c7-7839b5d058e8}
+
+[2022.09.06-01.35.17:315][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/PistolC0854833414B42CC76A50985D91B29B4.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Weapons/Pistol.uasset'
+[2022.09.06-01.35.17:478][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {07081c38-9bdf-4407-8c70-4ca90d3869b7}
+
+[2022.09.06-01.35.17:478][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/RandomSoundFromEvent" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/RandomSoundFromEvent.uasset" SILENT=true
+[2022.09.06-01.35.17:479][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {07081c38-9bdf-4407-8c70-4ca90d3869b7}
+
+[2022.09.06-01.35.17:479][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/RandomSoundFromEventE9974E664D3D2613E7BD7597F5FE8CE2.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/RandomSoundFromEvent.uasset'
+[2022.09.06-01.35.17:637][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {0c8363b4-23af-4f9c-af4b-0951bfd37d84}
+
+[2022.09.06-01.35.17:637][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Vehicles/Car_Engine" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Vehicles/Car_Engine.uasset" SILENT=true
+[2022.09.06-01.35.17:638][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {0c8363b4-23af-4f9c-af4b-0951bfd37d84}
+
+[2022.09.06-01.35.17:638][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Car_Engine2178F97E4AD99F39B5729B90B5A48EE6.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Vehicles/Car_Engine.uasset'
+[2022.09.06-01.35.17:781][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {0d03b558-d012-41c4-b05b-37467fa114b3}
+
+[2022.09.06-01.35.17:782][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Programmer_Instruments/TestSound" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/TestSound.uasset" SILENT=true
+[2022.09.06-01.35.17:782][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {0d03b558-d012-41c4-b05b-37467fa114b3}
+
+[2022.09.06-01.35.17:782][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/TestSoundE9B1161F4B03B60E5F46BCB68C0F1B4B.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/TestSound.uasset'
+[2022.09.06-01.35.17:961][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {129010d1-27cd-47d3-ab9c-2bfd7a1be7c7}
+
+[2022.09.06-01.35.17:961][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {129010d1-27cd-47d3-ab9c-2bfd7a1be7c7}
+
+[2022.09.06-01.35.17:962][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/BabyElephantWalkFA81E1714DCE15B67DAC86B29F87F098.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/BabyElephantWalk.uasset'
+[2022.09.06-01.35.18:093][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {14b5293f-f69e-48e5-a7ae-ce02710ca3d9}
+
+[2022.09.06-01.35.18:093][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Character/Enemy_Footsteps" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Enemy_Footsteps.uasset" SILENT=true
+[2022.09.06-01.35.18:094][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {14b5293f-f69e-48e5-a7ae-ce02710ca3d9}
+
+[2022.09.06-01.35.18:094][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Enemy_Footsteps91B3B0FF4780D9C5605C668441A6BA4D.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Enemy_Footsteps.uasset'
+[2022.09.06-01.35.18:250][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {15c79393-7b3b-420a-8ab0-6241928b3d66}
+
+[2022.09.06-01.35.18:250][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/WindSpeedDepedningOnVel" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/WindSpeedDepedningOnVel.uasset" SILENT=true
+[2022.09.06-01.35.18:251][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {15c79393-7b3b-420a-8ab0-6241928b3d66}
+
+[2022.09.06-01.35.18:251][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/WindSpeedDepedningOnVel62200AB44A0DECE3CB8440B07991598E.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/WindSpeedDepedningOnVel.uasset'
+[2022.09.06-01.35.18:406][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {1c4eda36-1897-45ff-9715-f4dabf3c2d63}
+
+[2022.09.06-01.35.18:406][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Programmer_Instruments/Intrument" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/Intrument.uasset" SILENT=true
+[2022.09.06-01.35.18:407][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {1c4eda36-1897-45ff-9715-f4dabf3c2d63}
+
+[2022.09.06-01.35.18:407][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/IntrumentDCB15BE24097F8FB354B04B3848B5753.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/Intrument.uasset'
+[2022.09.06-01.35.18:563][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {1c864700-6986-45f1-a7e8-329359bc30ea}
+
+[2022.09.06-01.35.18:563][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Music/Kart_Music" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Kart_Music.uasset" SILENT=true
+[2022.09.06-01.35.18:564][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {1c864700-6986-45f1-a7e8-329359bc30ea}
+
+[2022.09.06-01.35.18:564][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Kart_Music325B4E7848E706808A49DCB669C4C2E5.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Kart_Music.uasset'
+[2022.09.06-01.35.18:718][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {1eadc35e-389c-493f-b432-7a3a949e93ed}
+
+[2022.09.06-01.35.18:719][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {1eadc35e-389c-493f-b432-7a3a949e93ed}
+
+[2022.09.06-01.35.18:719][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/CommandInstrumentA8B22B8841D6E77BED37F498110557E7.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/CommandInstrument.uasset'
+[2022.09.06-01.35.18:887][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {1f687138-e06c-40f5-9bac-57f84bbcedd3}
+
+[2022.09.06-01.35.18:887][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Weapons/Explosion" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Weapons/Explosion.uasset" SILENT=true
+[2022.09.06-01.35.18:887][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {1f687138-e06c-40f5-9bac-57f84bbcedd3}
+
+[2022.09.06-01.35.18:888][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/ExplosionAE12AFEF499ACA3935B532908D9F63E5.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Weapons/Explosion.uasset'
+[2022.09.06-01.35.19:042][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {22f3fed6-2b45-4fff-aa85-5351bc5fe9cd}
+
+[2022.09.06-01.35.19:042][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Character/Health" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Health.uasset" SILENT=true
+[2022.09.06-01.35.19:042][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {22f3fed6-2b45-4fff-aa85-5351bc5fe9cd}
+
+[2022.09.06-01.35.19:043][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Health480060C6418AC3D5238B64B03BDC9B08.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Health.uasset'
+[2022.09.06-01.35.19:198][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {249ac74e-6ea4-4648-81da-206c4e22b801}
+
+[2022.09.06-01.35.19:199][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Ambience/Country" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Ambience/Country.uasset" SILENT=true
+[2022.09.06-01.35.19:199][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {249ac74e-6ea4-4648-81da-206c4e22b801}
+
+[2022.09.06-01.35.19:199][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/CountryE9BC4DAB4601BB44DE73E58C4AFC882C.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Ambience/Country.uasset'
+[2022.09.06-01.35.19:376][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {2a3e48e6-94fc-4363-9468-33d2dd4d7b00}
+
+[2022.09.06-01.35.19:376][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/UI/Cancel" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/UI/Cancel.uasset" SILENT=true
+[2022.09.06-01.35.19:377][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {2a3e48e6-94fc-4363-9468-33d2dd4d7b00}
+
+[2022.09.06-01.35.19:377][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Cancel1E5ED3814461853BEB0822A32F6E3B39.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/UI/Cancel.uasset'
+[2022.09.06-01.35.19:554][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/Vehicles" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/Vehicles.uasset" SILENT=true
+[2022.09.06-01.35.19:554][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Vehicles483A75A0470FFD3599835B86BDB33E0E.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/Vehicles.uasset'
+[2022.09.06-01.35.19:709][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/SFX/Vehicles" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Vehicles.uasset" SILENT=true
+[2022.09.06-01.35.19:710][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/VehiclesABB25B3E43D3A124B69C23BE85F8540B.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Vehicles.uasset'
+[2022.09.06-01.35.19:877][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {3a11bdfa-95d0-4203-8dbe-9cc34d1d6276}
+
+[2022.09.06-01.35.19:877][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Programmer_Instruments/ElectricFence" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/ElectricFence.uasset" SILENT=true
+[2022.09.06-01.35.19:877][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {3a11bdfa-95d0-4203-8dbe-9cc34d1d6276}
+
+[2022.09.06-01.35.19:878][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/ElectricFenceB1CDCEA54B4F6289E7F2DF92012768C5.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/ElectricFence.uasset'
+[2022.09.06-01.35.20:053][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/SFX/Character" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Character.uasset" SILENT=true
+[2022.09.06-01.35.20:054][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Character6D6E45C548614F2CEC8FAEBDACD02A8A.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Character.uasset'
+[2022.09.06-01.35.20:221][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/VCAs/Environment" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/VCAs/Environment.uasset" SILENT=true
+[2022.09.06-01.35.20:221][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/EnvironmentD07576264992DC5296E390A1F07266A7.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/VCAs/Environment.uasset'
+[2022.09.06-01.35.20:408][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {43108f44-285c-4877-a785-4ae97ed0fb3d}
+
+[2022.09.06-01.35.20:408][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Character/Door_Close" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Door_Close.uasset" SILENT=true
+[2022.09.06-01.35.20:409][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {43108f44-285c-4877-a785-4ae97ed0fb3d}
+
+[2022.09.06-01.35.20:409][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Door_CloseBCB24BD543101192094AFF9827127B4F.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Door_Close.uasset'
+[2022.09.06-01.35.20:551][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {43c41f87-701f-4c25-a9a1-c619ca106412}
+
+[2022.09.06-01.35.20:551][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Character/Radio_Dialogue" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Radio_Dialogue.uasset" SILENT=true
+[2022.09.06-01.35.20:552][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {43c41f87-701f-4c25-a9a1-c619ca106412}
+
+[2022.09.06-01.35.20:552][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Radio_DialogueDC8002DE4049DAAF5423C39E6127533C.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Radio_Dialogue.uasset'
+[2022.09.06-01.35.20:742][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {477410e5-4a6d-462e-bd1e-4d558ce488ec}
+
+[2022.09.06-01.35.20:742][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Ambience/Forest" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Ambience/Forest.uasset" SILENT=true
+[2022.09.06-01.35.20:743][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {477410e5-4a6d-462e-bd1e-4d558ce488ec}
+
+[2022.09.06-01.35.20:743][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/ForestD65D75104F938B9F2E95CD8DA59985E2.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Ambience/Forest.uasset'
+[2022.09.06-01.35.21:084][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {4fba2417-73ec-4d9a-a4ca-af339e92a420}
+
+[2022.09.06-01.35.21:084][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/ReaddingEvent" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/ReaddingEvent.uasset" SILENT=true
+[2022.09.06-01.35.21:085][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {4fba2417-73ec-4d9a-a4ca-af339e92a420}
+
+[2022.09.06-01.35.21:085][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/ReaddingEvent77EA194944297D53F10A4BAC3708473D.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/ReaddingEvent.uasset'
+[2022.09.06-01.35.21:229][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/TestingGroup" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/TestingGroup.uasset" SILENT=true
+[2022.09.06-01.35.21:230][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/TestingGroupD96DC8A842F5303A1D099A898B3C39D5.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/TestingGroup.uasset'
+[2022.09.06-01.35.21:386][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/SFX/Reverb" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Reverb.uasset" SILENT=true
+[2022.09.06-01.35.21:387][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Reverb16EBD0854FEF3F275D6EEEAF29042648.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Reverb.uasset'
+[2022.09.06-01.35.21:575][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/SFX" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/SFX.uasset" SILENT=true
+[2022.09.06-01.35.21:576][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/SFXFBB88C7847F7B5A327BE6B9632602030.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/SFX.uasset'
+[2022.09.06-01.35.21:741][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {62855218-a8f3-470f-ab7a-8af8f7df77bb}
+
+[2022.09.06-01.35.21:741][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Character/Door_Open" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Door_Open.uasset" SILENT=true
+[2022.09.06-01.35.21:741][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {62855218-a8f3-470f-ab7a-8af8f7df77bb}
+
+[2022.09.06-01.35.21:741][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Door_OpenAF3B69EB49FC05DE45912B8BC695F578.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Door_Open.uasset'
+[2022.09.06-01.35.21:875][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/VCAs/Player" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/VCAs/Player.uasset" SILENT=true
+[2022.09.06-01.35.21:876][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Player522497BA4D01E934D04BD8BE7B601BDB.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/VCAs/Player.uasset'
+[2022.09.06-01.35.22:032][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/UI" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/UI.uasset" SILENT=true
+[2022.09.06-01.35.22:032][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/UI818224794DCFF5909E44359928C0103C.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/UI.uasset'
+[2022.09.06-01.35.22:231][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/VO" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/VO.uasset" SILENT=true
+[2022.09.06-01.35.22:232][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/VOCCBE0A944C4B4FB5FA8C229308677EE3.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/VO.uasset'
+[2022.09.06-01.35.22:715][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {6e8d8d09-12e0-48cf-b620-f9cc3bc478a3}
+
+[2022.09.06-01.35.22:715][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Snapshots/Slow-Motion" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Slow-Motion.uasset" SILENT=true
+[2022.09.06-01.35.22:716][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {6e8d8d09-12e0-48cf-b620-f9cc3bc478a3}
+
+[2022.09.06-01.35.22:716][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Slow-Motion686F4E76457E9A8C93B863894F778158.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Slow-Motion.uasset'
+[2022.09.06-01.35.22:863][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Reverbs/Slow-Motion" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Slow-Motion.uasset" SILENT=true
+[2022.09.06-01.35.22:864][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Slow-Motion515AAE3C41EA8AF0C011AFBA08A59F68.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Slow-Motion.uasset'
+[2022.09.06-01.35.23:032][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {74bbba7c-76e8-488c-9cf9-67f000df1ffd}
+
+[2022.09.06-01.35.23:032][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Music/Level_01" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Level_01.uasset" SILENT=true
+[2022.09.06-01.35.23:032][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {74bbba7c-76e8-488c-9cf9-67f000df1ffd}
+
+[2022.09.06-01.35.23:033][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Level_01E58533884C40AD6D46E2D8B86FBD1E85.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Level_01.uasset'
+[2022.09.06-01.35.23:198][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {7aa5e8f1-8ec2-42c6-b465-1241a603a055}
+
+[2022.09.06-01.35.23:198][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Vehicles/Ride-on_Mower" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Vehicles/Ride-on_Mower.uasset" SILENT=true
+[2022.09.06-01.35.23:199][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {7aa5e8f1-8ec2-42c6-b465-1241a603a055}
+
+[2022.09.06-01.35.23:199][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Ride-on_Mower2A639C74423F01F5344AAA9D39DE95B7.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Vehicles/Ride-on_Mower.uasset'
+[2022.09.06-01.35.23:333][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/Music" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/Music.uasset" SILENT=true
+[2022.09.06-01.35.23:333][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/MusicF83B4C9140EDB93ADD2306ABD002E6BE.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/Music.uasset'
+[2022.09.06-01.35.23:490][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/Master" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/Master.uasset" SILENT=true
+[2022.09.06-01.35.23:491][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Master90B6367F431E079EC9615AAA49B6DBA0.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/Master.uasset'
+[2022.09.06-01.35.24:241][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {87ea4134-fff1-4e9d-8f8b-294a2b518223}
+
+[2022.09.06-01.35.24:241][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Snapshots/Health_Low" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Health_Low.uasset" SILENT=true
+[2022.09.06-01.35.24:241][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {87ea4134-fff1-4e9d-8f8b-294a2b518223}
+
+[2022.09.06-01.35.24:241][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Health_Low0716CAEB440C81C91C4768B5CB0EDBFE.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Health_Low.uasset'
+[2022.09.06-01.35.24:396][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Reverbs/Health_Low" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Health_Low.uasset" SILENT=true
+[2022.09.06-01.35.24:397][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Health_LowA0A86511446DBD516AEF82BA58808BD9.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Health_Low.uasset'
+[2022.09.06-01.35.24:553][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {89d78893-d889-47e6-9dfe-7bf431c0d1ce}
+
+[2022.09.06-01.35.24:553][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Programmer_Instruments/AddAutomation" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/AddAutomation.uasset" SILENT=true
+[2022.09.06-01.35.24:553][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {89d78893-d889-47e6-9dfe-7bf431c0d1ce}
+
+[2022.09.06-01.35.24:554][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/AddAutomation28DB2BCC428181675C75ED9FDE98562C.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/AddAutomation.uasset'
+[2022.09.06-01.35.24:698][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/Testing" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/Testing.uasset" SILENT=true
+[2022.09.06-01.35.24:699][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/TestingB4EBD2754FB133B117C4DCA2B7618DF1.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/Testing.uasset'
+[2022.09.06-01.35.24:854][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {92479e97-94c6-4564-9e33-efbeec59b34a}
+
+[2022.09.06-01.35.24:854][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/UI/Okay" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/UI/Okay.uasset" SILENT=true
+[2022.09.06-01.35.24:855][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {92479e97-94c6-4564-9e33-efbeec59b34a}
+
+[2022.09.06-01.35.24:855][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/OkayA7130DC9463D037CDAC038B3F7CB4686.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/UI/Okay.uasset'
+[2022.09.06-01.35.25:263][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {9aa2ecc5-ea4b-4ebe-85c3-054b11b21dcd}
+
+[2022.09.06-01.35.25:263][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Character/Dialogue" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Dialogue.uasset" SILENT=true
+[2022.09.06-01.35.25:264][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {9aa2ecc5-ea4b-4ebe-85c3-054b11b21dcd}
+
+[2022.09.06-01.35.25:264][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/DialogueA354341E4BF292CAD16C8AB1B7F79CDC.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Dialogue.uasset'
+[2022.09.06-01.35.25:439][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/Music" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/Music.uasset" SILENT=true
+[2022.09.06-01.35.25:440][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/MusicDAF249474C7706719F58F1BB718055B9.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/Music.uasset'
+[2022.09.06-01.35.25:614][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {a7b81216-fb0b-4b9c-9e7d-b897825d9821}
+
+[2022.09.06-01.35.25:615][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/VO/Main_Menu" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/VO/Main_Menu.uasset" SILENT=true
+[2022.09.06-01.35.25:615][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {a7b81216-fb0b-4b9c-9e7d-b897825d9821}
+
+[2022.09.06-01.35.25:615][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Main_MenuC355831B449F214DD974D9A8F79EE005.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/VO/Main_Menu.uasset'
+[2022.09.06-01.35.25:760][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {b36aaf9f-2f14-4c45-8cf0-fc622a0ea38a}
+
+[2022.09.06-01.35.25:760][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Music/Radio_Station" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Radio_Station.uasset" SILENT=true
+[2022.09.06-01.35.25:761][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {b36aaf9f-2f14-4c45-8cf0-fc622a0ea38a}
+
+[2022.09.06-01.35.25:761][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Radio_StationF830C4714A006670F5C246A778340BDE.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Radio_Station.uasset'
+[2022.09.06-01.35.25:928][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {b65c7d40-a7e9-4f1d-b395-8a11f6e8504e}
+
+[2022.09.06-01.35.25:929][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Music/BabyWalk" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/BabyWalk.uasset" SILENT=true
+[2022.09.06-01.35.25:929][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {b65c7d40-a7e9-4f1d-b395-8a11f6e8504e}
+
+[2022.09.06-01.35.25:929][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/BabyWalk989F8D654123E680154373AC2646E2F3.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/BabyWalk.uasset'
+[2022.09.06-01.35.26:073][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {b695eec0-fe78-4755-b806-9690c06dfc0b}
+
+[2022.09.06-01.35.26:073][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Snapshots/Reverb/Cave_Reverb" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Reverb/Cave_Reverb.uasset" SILENT=true
+[2022.09.06-01.35.26:074][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {b695eec0-fe78-4755-b806-9690c06dfc0b}
+
+[2022.09.06-01.35.26:074][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Cave_Reverb46FE89D2462F1D7561D956942895EBC1.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Reverb/Cave_Reverb.uasset'
+[2022.09.06-01.35.26:219][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Reverbs/Reverb/Cave_Reverb" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Reverb/Cave_Reverb.uasset" SILENT=true
+[2022.09.06-01.35.26:220][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Cave_ReverbE57351D84BFB3861DD41818065D965F1.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Reverb/Cave_Reverb.uasset'
+[2022.09.06-01.35.26:739][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/Programmer_Instrument" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/Programmer_Instrument.uasset" SILENT=true
+[2022.09.06-01.35.26:740][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Programmer_InstrumentE661791C4B68B95FF35EEAB3318D8FAA.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/Programmer_Instrument.uasset'
+[2022.09.06-01.35.26:885][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {bb98917e-d65b-41f0-a0ca-c50756da3f0e}
+
+[2022.09.06-01.35.26:885][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Ambience/City" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Ambience/City.uasset" SILENT=true
+[2022.09.06-01.35.26:886][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {bb98917e-d65b-41f0-a0ca-c50756da3f0e}
+
+[2022.09.06-01.35.26:886][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/CityFBFDB4364FB28C066176CE9750806669.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Ambience/City.uasset'
+[2022.09.06-01.35.27:064][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {be6203d8-c8d8-41c5-8ce6-bce0de95807b}
+
+[2022.09.06-01.35.27:064][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Interactables/Wooden_Collision" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Interactables/Wooden_Collision.uasset" SILENT=true
+[2022.09.06-01.35.27:065][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {be6203d8-c8d8-41c5-8ce6-bce0de95807b}
+
+[2022.09.06-01.35.27:065][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Wooden_CollisionDB03BACC45EA7C15216FB0804031931C.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Interactables/Wooden_Collision.uasset'
+[2022.09.06-01.35.27:218][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/VCAs/Equipment" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/VCAs/Equipment.uasset" SILENT=true
+[2022.09.06-01.35.27:219][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Equipment37FEDEB14E669FA95B3C05A54EFF5FAD.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/VCAs/Equipment.uasset'
+[2022.09.06-01.35.27:418][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {c107e28e-873b-4caa-9492-68fe72210c48}
+
+[2022.09.06-01.35.27:419][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Snapshots/Reverb/Sewer_Reverb" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Reverb/Sewer_Reverb.uasset" SILENT=true
+[2022.09.06-01.35.27:419][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {c107e28e-873b-4caa-9492-68fe72210c48}
+
+[2022.09.06-01.35.27:420][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Sewer_Reverb046A6ADA4DC4CB248676FA828A58632B.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Reverb/Sewer_Reverb.uasset'
+[2022.09.06-01.35.27:585][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Reverbs/Reverb/Sewer_Reverb" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Reverb/Sewer_Reverb.uasset" SILENT=true
+[2022.09.06-01.35.27:586][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Sewer_ReverbDDD7BCBC488F546A27C17EB32263FEF8.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Reverb/Sewer_Reverb.uasset'
+[2022.09.06-01.35.28:201][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {c42c2240-c4b6-42ed-a473-1a47f19945ea}
+
+[2022.09.06-01.35.28:201][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Interactables/Barrel_Roll" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Interactables/Barrel_Roll.uasset" SILENT=true
+[2022.09.06-01.35.28:201][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {c42c2240-c4b6-42ed-a473-1a47f19945ea}
+
+[2022.09.06-01.35.28:201][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Barrel_RollD866155540D8DA8F556EDF993014FE6B.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Interactables/Barrel_Roll.uasset'
+[2022.09.06-01.35.28:608][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {c7f946fd-d695-499b-a820-752799c4921d}
+
+[2022.09.06-01.35.28:608][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Music/Level_02" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Level_02.uasset" SILENT=true
+[2022.09.06-01.35.28:608][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {c7f946fd-d695-499b-a820-752799c4921d}
+
+[2022.09.06-01.35.28:608][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Level_0276F07C4449C94C03F5D8AF894028367D.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Level_02.uasset'
+[2022.09.06-01.35.28:793][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/SFX" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX.uasset" SILENT=true
+[2022.09.06-01.35.28:794][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/SFXA9AED0DD4D1C494DC7201990E96C5916.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX.uasset'
+[2022.09.06-01.35.28:960][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/Programmer_Instrument" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/Programmer_Instrument.uasset" SILENT=true
+[2022.09.06-01.35.28:960][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Programmer_Instrument355E7C2549E2A9731A951286AAAADB3A.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/Programmer_Instrument.uasset'
+[2022.09.06-01.35.29:225][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/VO" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/VO.uasset" SILENT=true
+[2022.09.06-01.35.29:226][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/VOB0C6B4A5469A3D7F48FF7E8069CC4908.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/VO.uasset'
+[2022.09.06-01.35.29:418][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {d7eabb29-abd9-4057-b408-eef937d66f2a}
+
+[2022.09.06-01.35.29:418][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/VO/Welcome" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/VO/Welcome.uasset" SILENT=true
+[2022.09.06-01.35.29:419][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {d7eabb29-abd9-4057-b408-eef937d66f2a}
+
+[2022.09.06-01.35.29:419][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Welcome81209E6D49F7CF96CBE3F289F0BE3E69.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/VO/Welcome.uasset'
+[2022.09.06-01.35.29:586][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/SFX/Ambience" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Ambience.uasset" SILENT=true
+[2022.09.06-01.35.29:586][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Ambience24ABF1AD47876D3832E2768B1882EF23.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Ambience.uasset'
+[2022.09.06-01.35.29:741][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/SFX/Explosions" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Explosions.uasset" SILENT=true
+[2022.09.06-01.35.29:742][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/ExplosionsF60CAB00447F1D65DFA63EB468929FB0.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Explosions.uasset'
+[2022.09.06-01.35.29:908][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/SFX/Weapons" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Weapons.uasset" SILENT=true
+[2022.09.06-01.35.29:908][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Weapons6989E6484DB10549BB67D99FBF4CE582.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Weapons.uasset'
+[2022.09.06-01.35.30:084][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {e305a498-2b18-461d-b35c-6eaea45fafd6}
+
+[2022.09.06-01.35.30:084][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Snapshots/Pause" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Pause.uasset" SILENT=true
+[2022.09.06-01.35.30:085][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {e305a498-2b18-461d-b35c-6eaea45fafd6}
+
+[2022.09.06-01.35.30:085][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Pause8F078C4E4F6DEE31230218A1DF8522AB.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Pause.uasset'
+[2022.09.06-01.35.30:240][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Reverbs/Pause" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Pause.uasset" SILENT=true
+[2022.09.06-01.35.30:241][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Pause69779ACF49ADED4F5BFFBEAFA55D8D77.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Pause.uasset'
+[2022.09.06-01.35.30:385][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/NewBankToTest" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/NewBankToTest.uasset" SILENT=true
+[2022.09.06-01.35.30:386][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/NewBankToTestB2281C4D429ECB382E71C98A3C7970CF.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/NewBankToTest.uasset'
+[2022.09.06-01.35.30:774][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {e905d401-76f5-4741-a885-f7844b244671}
+
+[2022.09.06-01.35.30:774][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Character/Player_Footsteps" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Player_Footsteps.uasset" SILENT=true
+[2022.09.06-01.35.30:774][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {e905d401-76f5-4741-a885-f7844b244671}
+
+[2022.09.06-01.35.30:775][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Player_FootstepsC201DEB24021797F375B5A98B4DB1D6A.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Player_Footsteps.uasset'
+[2022.09.06-01.35.30:916][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {e9b7aafa-2df0-4193-b32e-a74e5753cfa0}
+
+[2022.09.06-01.35.30:916][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Weapons/Machine_Gun" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Weapons/Machine_Gun.uasset" SILENT=true
+[2022.09.06-01.35.30:917][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {e9b7aafa-2df0-4193-b32e-a74e5753cfa0}
+
+[2022.09.06-01.35.30:917][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Machine_Gun84AA3C884159BFCE2CE3839A417F2325.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Weapons/Machine_Gun.uasset'
+[2022.09.06-01.35.31:073][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/LiveSwapInTable" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/LiveSwapInTable.uasset" SILENT=true
+[2022.09.06-01.35.31:074][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/LiveSwapInTableE9CC514E4948368D6953FAB602B6051F.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/LiveSwapInTable.uasset'
+[2022.09.06-01.35.31:262][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {ec16145a-3712-4b1c-9944-ce26875a548b}
+
+[2022.09.06-01.35.31:262][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Music/Level_03" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Level_03.uasset" SILENT=true
+[2022.09.06-01.35.31:263][127]LogFMOD: Warning: c:\jk\workspace\Build__2.2__Unreal_Win\studio_api\src\fmod_objectlookup.h(124) - Lookup failed for EventModel: {ec16145a-3712-4b1c-9944-ce26875a548b}
+
+[2022.09.06-01.35.31:263][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Level_03F213B6DA4BB9B61C7AE7F981496ABBC9.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Level_03.uasset'
+[2022.09.06-01.35.31:427][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/TestingSound" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/TestingSound.uasset" SILENT=true
+[2022.09.06-01.35.31:428][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/TestingSoundCBE902894AC4A60A55A83D88904887CB.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/TestingSound.uasset'
+[2022.09.06-01.35.31:584][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/PrivateIntegrationData/AssetLookup" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset" SILENT=true
+[2022.09.06-01.35.31:586][127]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/AssetLookup65EF5C614C41E5A96DD11B96A2561A81.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset'
+[2022.09.06-01.35.32:768][127]LogFMOD: Display: Loaded bank lookup
+[2022.09.06-01.35.32:768][127]LogFMOD: Display: Loaded asset lookup
+[2022.09.06-01.35.32:771][127]LogFMOD: Default sample rate = 48000
+[2022.09.06-01.35.32:771][127]LogFMOD: System sample rate = 44100
+[2022.09.06-01.35.32:771][127]LogFMOD: Matching system sample rate 44100
+[2022.09.06-01.35.32:787][127]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/LiveSwapInTable.bank
+[2022.09.06-01.35.32:787][127]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/Music.bank
+[2022.09.06-01.35.32:787][127]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/NewBankToTest.bank
+[2022.09.06-01.35.32:787][127]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/Programmer Instrument.bank
+[2022.09.06-01.35.32:787][127]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/SFX.bank
+[2022.09.06-01.35.32:787][127]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/TestingSound.bank
+[2022.09.06-01.35.32:787][127]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/Vehicles.bank
+[2022.09.06-01.35.32:787][127]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/VO.bank
+[2022.09.06-01.35.32:930][127]LogFMOD: Default sample rate = 48000
+[2022.09.06-01.35.32:930][127]LogFMOD: System sample rate = 44100
+[2022.09.06-01.35.32:930][127]LogFMOD: Matching system sample rate 44100
+[2022.09.06-01.35.32:946][127]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/LiveSwapInTable.bank
+[2022.09.06-01.35.32:946][127]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/Music.bank
+[2022.09.06-01.35.32:946][127]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/NewBankToTest.bank
+[2022.09.06-01.35.32:946][127]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/Programmer Instrument.bank
+[2022.09.06-01.35.32:946][127]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/SFX.bank
+[2022.09.06-01.35.32:946][127]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/TestingSound.bank
+[2022.09.06-01.35.32:946][127]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/Vehicles.bank
+[2022.09.06-01.35.32:946][127]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/VO.bank
+[2022.09.06-01.35.32:988][127]LogFMOD: Display: Loaded bank lookup
+[2022.09.06-01.35.32:989][127]LogFMOD: Display: Loaded asset lookup
+[2022.09.06-01.35.32:997][127]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/SFX/Objects.Objects
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating DataTable /Game/FMOD/PrivateIntegrationData/AssetLookup.AssetLookup
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODBankLookup /Game/FMOD/PrivateIntegrationData/BankLookup.BankLookup
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Weapons/Pistol.Pistol
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/RandomSoundFromEvent.RandomSoundFromEvent
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Vehicles/Car_Engine.Car_Engine
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Programmer_Instruments/TestSound.TestSound
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Programmer_Instruments/BabyElephantWalk.BabyElephantWalk
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Character/Enemy_Footsteps.Enemy_Footsteps
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/WindSpeedDepedningOnVel.WindSpeedDepedningOnVel
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Programmer_Instruments/Intrument.Intrument
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Music/Kart_Music.Kart_Music
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Programmer_Instruments/CommandInstrument.CommandInstrument
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Weapons/Explosion.Explosion
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Character/Health.Health
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Ambience/Country.Country
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/UI/Cancel.Cancel
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/Vehicles.Vehicles
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/SFX/Vehicles.Vehicles
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Programmer_Instruments/ElectricFence.ElectricFence
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/SFX/Character.Character
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODVCA /Game/FMOD/VCAs/Environment.Environment
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Character/Door_Close.Door_Close
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Character/Radio_Dialogue.Radio_Dialogue
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Ambience/Forest.Forest
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/ReaddingEvent.ReaddingEvent
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/TestingGroup.TestingGroup
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/SFX/Reverb.Reverb
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/SFX.SFX
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Character/Door_Open.Door_Open
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODVCA /Game/FMOD/VCAs/Player.Player
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/UI.UI
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/VO.VO
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODSnapshot /Game/FMOD/Snapshots/Slow-Motion.Slow-Motion
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODSnapshotReverb /Game/FMOD/Reverbs/Slow-Motion.Slow-Motion
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Music/Level_01.Level_01
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Vehicles/Ride-on_Mower.Ride-on_Mower
+[2022.09.06-01.35.32:997][127]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/Music.Music
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/Master.Master
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODSnapshot /Game/FMOD/Snapshots/Health_Low.Health_Low
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODSnapshotReverb /Game/FMOD/Reverbs/Health_Low.Health_Low
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Programmer_Instruments/AddAutomation.AddAutomation
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/Testing.Testing
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/UI/Okay.Okay
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Character/Dialogue.Dialogue
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/Music.Music
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/VO/Main_Menu.Main_Menu
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Music/Radio_Station.Radio_Station
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Music/BabyWalk.BabyWalk
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODSnapshot /Game/FMOD/Snapshots/Reverb/Cave_Reverb.Cave_Reverb
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODSnapshotReverb /Game/FMOD/Reverbs/Reverb/Cave_Reverb.Cave_Reverb
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/Programmer_Instrument.Programmer_Instrument
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Ambience/City.City
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Interactables/Wooden_Collision.Wooden_Collision
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODVCA /Game/FMOD/VCAs/Equipment.Equipment
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODSnapshot /Game/FMOD/Snapshots/Reverb/Sewer_Reverb.Sewer_Reverb
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODSnapshotReverb /Game/FMOD/Reverbs/Reverb/Sewer_Reverb.Sewer_Reverb
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Interactables/Barrel_Roll.Barrel_Roll
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Music/Level_02.Level_02
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/SFX.SFX
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/Programmer_Instrument.Programmer_Instrument
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/VO.VO
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/VO/Welcome.Welcome
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/SFX/Ambience.Ambience
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/SFX/Explosions.Explosions
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/SFX/Weapons.Weapons
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODSnapshot /Game/FMOD/Snapshots/Pause.Pause
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODSnapshotReverb /Game/FMOD/Reverbs/Pause.Pause
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/NewBankToTest.NewBankToTest
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Character/Player_Footsteps.Player_Footsteps
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Weapons/Machine_Gun.Machine_Gun
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/LiveSwapInTable.LiveSwapInTable
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Music/Level_03.Level_03
+[2022.09.06-01.35.32:998][127]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/TestingSound.TestingSound
+[2022.09.06-01.35.42:888][245]LogRenderer: Reallocating scene render targets to support 1592x1284 Format 10 NumSamples 1 (Frame:5).
+[2022.09.06-01.35.57:776][949]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.06-01.35.57:819][949]LogFMOD: Default sample rate = 48000
+[2022.09.06-01.35.57:819][949]LogFMOD: System sample rate = 44100
+[2022.09.06-01.35.57:819][949]LogFMOD: Matching system sample rate 44100
+[2022.09.06-01.35.57:835][949]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/LiveSwapInTable.bank
+[2022.09.06-01.35.57:835][949]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/Music.bank
+[2022.09.06-01.35.57:835][949]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/NewBankToTest.bank
+[2022.09.06-01.35.57:835][949]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/Programmer Instrument.bank
+[2022.09.06-01.35.57:835][949]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/SFX.bank
+[2022.09.06-01.35.57:835][949]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/TestingSound.bank
+[2022.09.06-01.35.57:835][949]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/Vehicles.bank
+[2022.09.06-01.35.57:835][949]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/VO.bank
+[2022.09.06-01.35.57:876][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.06-01.35.57:876][949]PIE: New page: PIE session: NewMap (6 Sep 2022, 9:35:57 pm)
+[2022.09.06-01.35.57:877][949]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.09.06-01.35.57:878][949]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.09.06-01.35.57:878][949]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2022.09.06-01.35.57:880][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002185s)
+[2022.09.06-01.35.57:881][949]LogAIModule: Creating AISystem for world NewMap
+[2022.09.06-01.35.57:881][949]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2022.09.06-01.35.57:881][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.003455s)
+[2022.09.06-01.35.57:885][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.09.06-01.35.57:888][949]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.09.06-01.35.57:888][949]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.06-01.35.57:888][949]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.06-01.35.57:888][949]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.06-01.35.57:888][949]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.06-01.35.57:888][949]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.06-01.35.57:888][949]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.06-01.35.57:889][949]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.06-01.35.57:889][949]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.06-01.35.57:889][949]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.06-01.35.57:889][949]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.06-01.35.57:889][949]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.06-01.35.57:889][949]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.06-01.35.57:890][949]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.06-01.35.57:890][949]LogAudioMixer: Display: 1: FrontRight
+[2022.09.06-01.35.57:906][949]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2022.09.06-01.35.57:906][949]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.06-01.35.57:906][949]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.06-01.35.57:906][949]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.06-01.35.57:907][949]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.06-01.35.57:907][949]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.06-01.35.57:907][949]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.06-01.35.57:907][949]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.06-01.35.57:907][949]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.06-01.35.57:907][949]LogInit: FAudioDevice initialized.
+[2022.09.06-01.35.57:907][949]LogAudio: Display: Audio Device (ID: 2) registered with world 'NewMap'.
+[2022.09.06-01.35.57:915][949]LogLoad: Game class is 'GameModeBase'
+[2022.09.06-01.35.57:916][949]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.09.06-11.35.57
+[2022.09.06-01.35.57:916][949]LogWorld: Bringing up level for play took: 0.000457
+[2022.09.06-01.35.57:916][949]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2022.09.06-01.35.57:918][949]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.09.06-01.35.57:919][949]PIE: Server logged in
+[2022.09.06-01.35.57:920][949]PIE: Play in editor total start time 0.141 seconds.
+[2022.09.06-01.36.04:168][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-01.36.04:168][662]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2022.09.06-01.36.04:168][662]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-01.36.04:168][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-01.36.04:176][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.06-01.36.04:177][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-01.36.04:180][662]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.06-01.36.04:180][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.06-01.36.04:181][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.06-01.36.04:185][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-01.36.04:187][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.09.06-01.36.04:197][663]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.09.06-01.36.05:375][797]LogEditorViewport: Clicking on Actor (LMB): FMODAmbientSound (Explosion)
+[2022.09.06-01.36.06:071][877]Cmd: DELETE
+[2022.09.06-01.36.06:071][877]Cmd: ACTOR DELETE
+[2022.09.06-01.36.06:081][877]LogEditorActor: Deleted Actor: FMODAmbientSound
+[2022.09.06-01.36.06:085][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.09.06-01.36.06:085][877]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2022.09.06-01.36.10:350][351]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.06-01.36.10:658][351]LogFMOD: Default sample rate = 48000
+[2022.09.06-01.36.10:658][351]LogFMOD: System sample rate = 44100
+[2022.09.06-01.36.10:658][351]LogFMOD: Matching system sample rate 44100
+[2022.09.06-01.36.10:674][351]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/LiveSwapInTable.bank
+[2022.09.06-01.36.10:674][351]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/Music.bank
+[2022.09.06-01.36.10:674][351]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/NewBankToTest.bank
+[2022.09.06-01.36.10:674][351]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/Programmer Instrument.bank
+[2022.09.06-01.36.10:674][351]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/SFX.bank
+[2022.09.06-01.36.10:674][351]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/TestingSound.bank
+[2022.09.06-01.36.10:674][351]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/Vehicles.bank
+[2022.09.06-01.36.10:674][351]LogFMOD: Loading bank: E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Desktop/VO.bank
+[2022.09.06-01.36.10:716][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.06-01.36.10:716][351]PIE: New page: PIE session: NewMap (6 Sep 2022, 9:36:10 pm)
+[2022.09.06-01.36.10:716][351]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2022.09.06-01.36.10:718][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001782s)
+[2022.09.06-01.36.10:719][351]LogAIModule: Creating AISystem for world NewMap
+[2022.09.06-01.36.10:719][351]LogPlayLevel: PIE: World Init took: (0.001215s)
+[2022.09.06-01.36.10:719][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.003092s)
+[2022.09.06-01.36.10:722][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.09.06-01.36.10:723][351]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.09.06-01.36.10:723][351]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.06-01.36.10:723][351]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.06-01.36.10:723][351]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.06-01.36.10:723][351]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.06-01.36.10:723][351]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.06-01.36.10:723][351]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.06-01.36.10:723][351]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.06-01.36.10:723][351]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.06-01.36.10:723][351]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.06-01.36.10:723][351]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.06-01.36.10:723][351]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.06-01.36.10:723][351]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.06-01.36.10:724][351]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.06-01.36.10:724][351]LogAudioMixer: Display: 1: FrontRight
+[2022.09.06-01.36.10:740][351]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2022.09.06-01.36.10:740][351]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.06-01.36.10:740][351]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.06-01.36.10:740][351]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.06-01.36.10:740][351]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.06-01.36.10:740][351]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.06-01.36.10:740][351]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.06-01.36.10:741][351]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.06-01.36.10:741][351]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.06-01.36.10:741][351]LogInit: FAudioDevice initialized.
+[2022.09.06-01.36.10:741][351]LogAudio: Display: Audio Device (ID: 3) registered with world 'NewMap'.
+[2022.09.06-01.36.10:746][351]LogLoad: Game class is 'GameModeBase'
+[2022.09.06-01.36.10:747][351]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.09.06-11.36.10
+[2022.09.06-01.36.10:747][351]LogWorld: Bringing up level for play took: 0.000501
+[2022.09.06-01.36.10:747][351]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.09.06-01.36.10:749][351]PIE: Server logged in
+[2022.09.06-01.36.10:749][351]PIE: Play in editor total start time 0.142 seconds.
+[2022.09.06-01.36.12:267][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-01.36.12:268][514]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_NewMap
+[2022.09.06-01.36.12:268][514]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-01.36.12:268][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-01.36.12:274][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.06-01.36.12:281][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-01.36.12:284][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-01.36.12:284][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.06-01.36.12:285][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.06-01.36.12:290][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.09.06-01.36.12:316][515]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.09.06-01.36.14:638][776]MapCheck: New page: Map Check
+[2022.09.06-01.36.14:646][776]LightingResults: New page: Lighting Build - 6 Sep 2022, 9:36:14 pm
+[2022.09.06-01.36.14:673][776]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.09.06-01.36.14:717][776]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.09.06-01.36.14:732][776]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.09.06-01.36.15:250][776]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.09.06-01.36.15:250][776]LogSwarmInterface: [TryOpenConnection] Local Process ID is 28504
+[2022.09.06-01.36.17:545][776]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.09.06-01.36.17:545][776]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.09.06-01.36.17:545][776]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.09.06-01.36.17:545][776]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.09.06-01.36.17:545][776]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.09.06-01.36.17:545][776]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.09.06-01.36.17:662][776]LogEditorBuildUtils: Build time 0:03
+[2022.09.06-01.36.17:727][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.09.06-01.36.18:720][815]Job is a success!
+[2022.09.06-01.36.19:007][817]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2022.09.06-01.36.19:007][817]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.09.06-01.36.19:007][817]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.09.06-01.36.19:007][817]LogVolumetricLightmapImport:      Bricks at depth
+[2022.09.06-01.36.19:007][817]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2022.09.06-01.36.19:007][817]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2022.09.06-01.36.19:007][817]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2022.09.06-01.36.19:007][817]LogVolumetricLightmapImport:      Bricks in each level
+[2022.09.06-01.36.19:007][817]LogVolumetricLightmapImport:          NewMap 			 6 bricks 	 100.0% (Persistent Level)
+[2022.09.06-01.36.19:035][817]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 256X256)
+[2022.09.06-01.36.19:035][817]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 256X256)
+[2022.09.06-01.36.19:035][817]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2022.09.06-01.36.19:035][817]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2022.09.06-01.36.19:035][817]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2022.09.06-01.36.19:035][817]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2022.09.06-01.36.19:035][817]LogStaticLightingSystem: NewMap_BuiltData storing lightmap data for 3 meshes in 2 LightmapResourceClusters (1.5 Meshes per cluster).
+[2022.09.06-01.36.19:040][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.09.06-01.36.19:091][817]Lightmass on SCORPION: 881 ms total, 149 ms importing, 18 ms setup, 61 ms photons, 581 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 6.39 sec total, 153 ms processing.
+[2022.09.06-01.36.19:158][817]LogStaticLightingSystem: Illumination: 4.36 sec (4 ms encoding lightmaps, 7 ms encoding shadowmaps)
+[2022.09.06-01.36.19:158][817]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.09.06-01.36.19:158][817]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.09.06-01.36.19:557][817]DumpUnbuiltLightIteractions
+[2022.09.06-01.36.19:557][817]Lights with unbuilt interactions: 0
+[2022.09.06-01.36.19:557][817]
+[2022.09.06-01.36.19:557][817]Primitives with unbuilt interactions: 0
+[2022.09.06-01.36.19:655][817]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.09.06-01.36.19:690][818]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.09.06-01.36.19:690][818]MapCheck: New page: NewMap - 6 Sep 2022, 9:36:19 pm
+[2022.09.06-01.36.19:690][818]MapCheck: Warning: BabyWalk_2 BabyWalk_2 : Ambient sound actor has NULL Event property 
+[2022.09.06-01.36.19:690][818]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.462ms to complete.
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Content: 'D:/Unreal/UE_4.27/Engine/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:523][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:524][313]SourceControl: fatal: D:/Unreal/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Unreal/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'E:/UE Projects/TestingVC'
+[2022.09.06-01.36.26:628][313]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert 'E:/Version Control/TestingVCUE/TestingVC/Plugins/FMODStudio/Content/AnimNotify_FMODPlayEvent.uasset'. Attempt result was 'E:/Version Control/TestingVCUE/TestingVC/Plugins/FMODStudio/Content/AnimNotify_FMODPlayEvent', but the path contains illegal characters ':'
+[2022.09.06-01.36.27:598][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/LiveSwapInTable" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/LiveSwapInTable.uasset" SILENT=true
+[2022.09.06-01.36.27:598][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/LiveSwapInTableB70EFA4741766DF06216228B2BBDFFA9.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/LiveSwapInTable.uasset'
+[2022.09.06-01.36.27:599][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/Master" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/Master.uasset" SILENT=true
+[2022.09.06-01.36.27:599][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Master19794CAA45B8B16579F6A5B14E43F2E4.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/Master.uasset'
+[2022.09.06-01.36.27:600][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/Music" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/Music.uasset" SILENT=true
+[2022.09.06-01.36.27:600][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Music6EEB568344581993C60834B84F1031B1.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/Music.uasset'
+[2022.09.06-01.36.27:601][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/NewBankToTest" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/NewBankToTest.uasset" SILENT=true
+[2022.09.06-01.36.27:602][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/NewBankToTest17C0E74C467F0BD05DD2659E06C7468D.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/NewBankToTest.uasset'
+[2022.09.06-01.36.27:602][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/Programmer_Instrument" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/Programmer_Instrument.uasset" SILENT=true
+[2022.09.06-01.36.27:603][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Programmer_InstrumentD56C7D504884FFE314C85E94F5594856.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/Programmer_Instrument.uasset'
+[2022.09.06-01.36.27:603][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/SFX" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/SFX.uasset" SILENT=true
+[2022.09.06-01.36.27:604][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/SFX8E6FBD0A4B1274FB24E6D4821B52C12C.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/SFX.uasset'
+[2022.09.06-01.36.27:605][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/TestingSound" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/TestingSound.uasset" SILENT=true
+[2022.09.06-01.36.27:605][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/TestingSound19EA00CA4887F2829925CBB6563879CF.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/TestingSound.uasset'
+[2022.09.06-01.36.27:606][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/Vehicles" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/Vehicles.uasset" SILENT=true
+[2022.09.06-01.36.27:607][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Vehicles7D08580941B84FAD83EF72885BD30F85.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/Vehicles.uasset'
+[2022.09.06-01.36.27:608][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Banks/VO" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/VO.uasset" SILENT=true
+[2022.09.06-01.36.27:608][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/VO4A4DFBAF485AC523F6B789850C8049EA.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Banks/VO.uasset'
+[2022.09.06-01.36.27:609][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/Music" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/Music.uasset" SILENT=true
+[2022.09.06-01.36.27:610][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/MusicA703345C45D3CDBEDCD248B2ECF2758C.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/Music.uasset'
+[2022.09.06-01.36.27:610][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/Programmer_Instrument" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/Programmer_Instrument.uasset" SILENT=true
+[2022.09.06-01.36.27:611][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Programmer_Instrument3541B5D44F451A63EC6221A3804ECB83.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/Programmer_Instrument.uasset'
+[2022.09.06-01.36.27:612][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/SFX" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX.uasset" SILENT=true
+[2022.09.06-01.36.27:612][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/SFX61D85DF94101081230EDEC8E5A68956E.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX.uasset'
+[2022.09.06-01.36.27:613][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/Testing" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/Testing.uasset" SILENT=true
+[2022.09.06-01.36.27:613][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/TestingF4ECFAC34F6E225AA58D02A955DCEEDB.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/Testing.uasset'
+[2022.09.06-01.36.27:614][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/TestingGroup" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/TestingGroup.uasset" SILENT=true
+[2022.09.06-01.36.27:614][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/TestingGroup3409CCEE4C13757660CF10A1EDF7D7ED.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/TestingGroup.uasset'
+[2022.09.06-01.36.27:615][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/UI" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/UI.uasset" SILENT=true
+[2022.09.06-01.36.27:616][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/UIF17E7C594BB2650C162C9F8FA7075E83.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/UI.uasset'
+[2022.09.06-01.36.27:616][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/VO" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/VO.uasset" SILENT=true
+[2022.09.06-01.36.27:617][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/VO8A0F0F94463A0334499DF78C3CB99165.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/VO.uasset'
+[2022.09.06-01.36.27:618][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/SFX/Ambience" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Ambience.uasset" SILENT=true
+[2022.09.06-01.36.27:618][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/AmbienceEEA8842840612F0D5B3F22998E55DAF5.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Ambience.uasset'
+[2022.09.06-01.36.27:619][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/SFX/Character" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Character.uasset" SILENT=true
+[2022.09.06-01.36.27:619][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/CharacterDC72662947A06DF83B90BD88D8CA48EB.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Character.uasset'
+[2022.09.06-01.36.27:620][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/SFX/Explosions" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Explosions.uasset" SILENT=true
+[2022.09.06-01.36.27:620][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/ExplosionsC7EA8F16450E1AC718973D95756B2559.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Explosions.uasset'
+[2022.09.06-01.36.27:621][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/SFX/Objects" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Objects.uasset" SILENT=true
+[2022.09.06-01.36.27:621][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Objects82C9B87B43E2D134EC176EB0321AB820.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Objects.uasset'
+[2022.09.06-01.36.27:622][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/SFX/Reverb" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Reverb.uasset" SILENT=true
+[2022.09.06-01.36.27:623][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/ReverbEF789E4846083B208EE6A69C212EBBF2.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Reverb.uasset'
+[2022.09.06-01.36.27:623][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/SFX/Vehicles" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Vehicles.uasset" SILENT=true
+[2022.09.06-01.36.27:624][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Vehicles69DB9CD845C070361697C181DF92A9EA.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Vehicles.uasset'
+[2022.09.06-01.36.27:625][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Buses/SFX/Weapons" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Weapons.uasset" SILENT=true
+[2022.09.06-01.36.27:625][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Weapons2EE9F65C480C986FA0DA45B0F10065CA.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Buses/SFX/Weapons.uasset'
+[2022.09.06-01.36.27:626][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/RandomSoundFromEvent" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/RandomSoundFromEvent.uasset" SILENT=true
+[2022.09.06-01.36.27:626][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/RandomSoundFromEvent220F3DF947013D30E4B427A08E8A0A01.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/RandomSoundFromEvent.uasset'
+[2022.09.06-01.36.27:627][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/ReaddingEvent" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/ReaddingEvent.uasset" SILENT=true
+[2022.09.06-01.36.27:628][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/ReaddingEvent9FD8BD5548EAD1413479EDA94FBEC5F0.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/ReaddingEvent.uasset'
+[2022.09.06-01.36.27:628][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/WindSpeedDepedningOnVel" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/WindSpeedDepedningOnVel.uasset" SILENT=true
+[2022.09.06-01.36.27:629][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/WindSpeedDepedningOnVel69701A1C46FD1D87467B8B9588C75925.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/WindSpeedDepedningOnVel.uasset'
+[2022.09.06-01.36.27:630][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Ambience/City" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Ambience/City.uasset" SILENT=true
+[2022.09.06-01.36.27:630][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/City02415A6B4019E39E3EC544A5F4652DEC.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Ambience/City.uasset'
+[2022.09.06-01.36.27:631][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Ambience/Country" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Ambience/Country.uasset" SILENT=true
+[2022.09.06-01.36.27:632][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Country7763648644CF7EE2DCF875B53C001DF6.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Ambience/Country.uasset'
+[2022.09.06-01.36.27:632][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Ambience/Forest" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Ambience/Forest.uasset" SILENT=true
+[2022.09.06-01.36.27:633][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/ForestB31066184C298D35BB83CEBE41EE1561.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Ambience/Forest.uasset'
+[2022.09.06-01.36.27:633][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Character/Dialogue" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Dialogue.uasset" SILENT=true
+[2022.09.06-01.36.27:634][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Dialogue98ED01CA40737F03CA9715BBFAB796EE.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Dialogue.uasset'
+[2022.09.06-01.36.27:635][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Character/Door_Close" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Door_Close.uasset" SILENT=true
+[2022.09.06-01.36.27:635][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Door_CloseC9D4A1C240407FB57E504B9AF265CF40.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Door_Close.uasset'
+[2022.09.06-01.36.27:636][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Character/Door_Open" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Door_Open.uasset" SILENT=true
+[2022.09.06-01.36.27:636][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Door_Open66F6687D4C7073BD411B23A767D2E4B4.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Door_Open.uasset'
+[2022.09.06-01.36.27:637][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Character/Enemy_Footsteps" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Enemy_Footsteps.uasset" SILENT=true
+[2022.09.06-01.36.27:638][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Enemy_Footsteps7E9A412A44DD830B8D90F6B38D3C5834.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Enemy_Footsteps.uasset'
+[2022.09.06-01.36.27:638][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Character/Health" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Health.uasset" SILENT=true
+[2022.09.06-01.36.27:639][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/HealthE56A03DE4E2788B19435E1AA266A17A0.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Health.uasset'
+[2022.09.06-01.36.27:640][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Character/Player_Footsteps" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Player_Footsteps.uasset" SILENT=true
+[2022.09.06-01.36.27:640][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Player_FootstepsE293CA4347D4CA86164543836D7E1D00.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Player_Footsteps.uasset'
+[2022.09.06-01.36.27:641][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Character/Radio_Dialogue" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Radio_Dialogue.uasset" SILENT=true
+[2022.09.06-01.36.27:642][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Radio_Dialogue50EB7FEB4BB9E5B21C72E0AEE2B2DC19.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Character/Radio_Dialogue.uasset'
+[2022.09.06-01.36.27:643][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Interactables/Barrel_Roll" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Interactables/Barrel_Roll.uasset" SILENT=true
+[2022.09.06-01.36.27:643][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Barrel_Roll220CAEE749B50CF6AEFAD080AB2E9B7B.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Interactables/Barrel_Roll.uasset'
+[2022.09.06-01.36.27:644][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Interactables/Wooden_Collision" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Interactables/Wooden_Collision.uasset" SILENT=true
+[2022.09.06-01.36.27:645][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Wooden_CollisionE9DBF178410071E42301FF910121AE08.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Interactables/Wooden_Collision.uasset'
+[2022.09.06-01.36.27:645][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Music/BabyWalk" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/BabyWalk.uasset" SILENT=true
+[2022.09.06-01.36.27:646][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/BabyWalkEDE84FB6467329DFAA7620AB17C62DEB.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/BabyWalk.uasset'
+[2022.09.06-01.36.27:647][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Music/Kart_Music" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Kart_Music.uasset" SILENT=true
+[2022.09.06-01.36.27:647][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Kart_Music130C2D0E4D04AD40620FCF9FDE2741DC.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Kart_Music.uasset'
+[2022.09.06-01.36.27:648][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Music/Level_01" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Level_01.uasset" SILENT=true
+[2022.09.06-01.36.27:649][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Level_016518F7564F4FCB4D137DF19CF8029E02.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Level_01.uasset'
+[2022.09.06-01.36.27:649][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Music/Level_02" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Level_02.uasset" SILENT=true
+[2022.09.06-01.36.27:650][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Level_02B2AA499541F522299649BCBF50D9D336.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Level_02.uasset'
+[2022.09.06-01.36.27:650][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Music/Level_03" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Level_03.uasset" SILENT=true
+[2022.09.06-01.36.27:651][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Level_03E186FA1C4040509795F7458EF08B23E4.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Level_03.uasset'
+[2022.09.06-01.36.27:652][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Music/Radio_Station" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Radio_Station.uasset" SILENT=true
+[2022.09.06-01.36.27:652][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Radio_StationE0A647C440E35100A3A833BD2CDF630E.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Music/Radio_Station.uasset'
+[2022.09.06-01.36.27:653][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Programmer_Instruments/AddAutomation" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/AddAutomation.uasset" SILENT=true
+[2022.09.06-01.36.27:653][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/AddAutomationD84BD20B4BBAB6E5749CB493CC8A99BE.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/AddAutomation.uasset'
+[2022.09.06-01.36.27:655][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/BabyElephantWalk2B8EF5AD404720EFADD4E0ACCB50A4DD.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/BabyElephantWalk.uasset'
+[2022.09.06-01.36.27:656][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/CommandInstrument388CD94C47400982C639B19332995D60.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/CommandInstrument.uasset'
+[2022.09.06-01.36.27:656][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Programmer_Instruments/ElectricFence" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/ElectricFence.uasset" SILENT=true
+[2022.09.06-01.36.27:657][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/ElectricFence0F0515284122DB011885B3958BAD7B3A.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/ElectricFence.uasset'
+[2022.09.06-01.36.27:658][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Programmer_Instruments/Intrument" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/Intrument.uasset" SILENT=true
+[2022.09.06-01.36.27:659][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Intrument877DD080402B7F99E90057BB4CF37E6F.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/Intrument.uasset'
+[2022.09.06-01.36.27:659][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Programmer_Instruments/TestSound" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/TestSound.uasset" SILENT=true
+[2022.09.06-01.36.27:660][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/TestSoundE17232F4453CBD8CD9BA31B107FDBD5E.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Programmer_Instruments/TestSound.uasset'
+[2022.09.06-01.36.27:661][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/UI/Cancel" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/UI/Cancel.uasset" SILENT=true
+[2022.09.06-01.36.27:661][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Cancel4A12DF304C250303C5153480331B8CA7.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/UI/Cancel.uasset'
+[2022.09.06-01.36.27:662][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/UI/Okay" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/UI/Okay.uasset" SILENT=true
+[2022.09.06-01.36.27:662][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/OkayCE32283F48E619557A751EBF92D2CD3C.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/UI/Okay.uasset'
+[2022.09.06-01.36.27:663][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Vehicles/Car_Engine" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Vehicles/Car_Engine.uasset" SILENT=true
+[2022.09.06-01.36.27:664][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Car_Engine91EC675A430517AEB3E840B251EDCCAE.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Vehicles/Car_Engine.uasset'
+[2022.09.06-01.36.27:664][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Vehicles/Ride-on_Mower" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Vehicles/Ride-on_Mower.uasset" SILENT=true
+[2022.09.06-01.36.27:665][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Ride-on_Mower9F6FA05A456BDA3632978094573A0E84.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Vehicles/Ride-on_Mower.uasset'
+[2022.09.06-01.36.27:666][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/VO/Main_Menu" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/VO/Main_Menu.uasset" SILENT=true
+[2022.09.06-01.36.27:667][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Main_Menu80EAC42D43265FCE4AA8838CE8DCC560.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/VO/Main_Menu.uasset'
+[2022.09.06-01.36.27:667][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/VO/Welcome" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/VO/Welcome.uasset" SILENT=true
+[2022.09.06-01.36.27:668][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Welcome5519B67F478A04C3E5BCE38209E61A44.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/VO/Welcome.uasset'
+[2022.09.06-01.36.27:668][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Weapons/Explosion" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Weapons/Explosion.uasset" SILENT=true
+[2022.09.06-01.36.27:669][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Explosion0B5227D441C0369174AC729A0C37F04F.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Weapons/Explosion.uasset'
+[2022.09.06-01.36.27:670][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Weapons/Machine_Gun" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Weapons/Machine_Gun.uasset" SILENT=true
+[2022.09.06-01.36.27:670][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Machine_GunED9674A84B5AF4D3B38517B485C9995C.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Weapons/Machine_Gun.uasset'
+[2022.09.06-01.36.27:671][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Events/Weapons/Pistol" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Weapons/Pistol.uasset" SILENT=true
+[2022.09.06-01.36.27:671][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/PistolAB2BB3724AB0596CABD28995FF5124DA.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Events/Weapons/Pistol.uasset'
+[2022.09.06-01.36.27:672][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/PrivateIntegrationData/AssetLookup" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset" SILENT=true
+[2022.09.06-01.36.27:674][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/AssetLookup4B847B8549963AEC8114B692CA7EA545.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset'
+[2022.09.06-01.36.27:675][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/PrivateIntegrationData/BankLookup" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/PrivateIntegrationData/BankLookup.uasset" SILENT=true
+[2022.09.06-01.36.27:676][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/BankLookup1506AD214564DA12F4EDAC890C5AE518.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/PrivateIntegrationData/BankLookup.uasset'
+[2022.09.06-01.36.27:677][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Reverbs/Health_Low" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Health_Low.uasset" SILENT=true
+[2022.09.06-01.36.27:677][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Health_LowBB42AD8248562AF27A515AB6BF4CDDDD.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Health_Low.uasset'
+[2022.09.06-01.36.27:678][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Reverbs/Pause" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Pause.uasset" SILENT=true
+[2022.09.06-01.36.27:678][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Pause69B47D4245EF0F31199FB7B09CE17AD3.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Pause.uasset'
+[2022.09.06-01.36.27:679][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Reverbs/Slow-Motion" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Slow-Motion.uasset" SILENT=true
+[2022.09.06-01.36.27:679][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Slow-MotionFB26874F4A8F520F106EEC9C8DA42569.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Slow-Motion.uasset'
+[2022.09.06-01.36.27:680][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Reverbs/Reverb/Cave_Reverb" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Reverb/Cave_Reverb.uasset" SILENT=true
+[2022.09.06-01.36.27:681][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Cave_Reverb27B5DDAC4D9C282ACB80F195AFD8E457.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Reverb/Cave_Reverb.uasset'
+[2022.09.06-01.36.27:681][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Reverbs/Reverb/Sewer_Reverb" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Reverb/Sewer_Reverb.uasset" SILENT=true
+[2022.09.06-01.36.27:682][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Sewer_Reverb6D30B40D4EC096727F0D4092F24168EF.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Reverbs/Reverb/Sewer_Reverb.uasset'
+[2022.09.06-01.36.27:682][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Snapshots/Health_Low" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Health_Low.uasset" SILENT=true
+[2022.09.06-01.36.27:683][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Health_LowA759F757415894F1DADFF7958B878C9A.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Health_Low.uasset'
+[2022.09.06-01.36.27:684][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Snapshots/Pause" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Pause.uasset" SILENT=true
+[2022.09.06-01.36.27:684][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Pause15C3282D4BC3DFAB3BB8BEB83F418E89.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Pause.uasset'
+[2022.09.06-01.36.27:685][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Snapshots/Slow-Motion" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Slow-Motion.uasset" SILENT=true
+[2022.09.06-01.36.27:686][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Slow-MotionAC377E9A411964B88240EF86EC5264BB.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Slow-Motion.uasset'
+[2022.09.06-01.36.27:686][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Snapshots/Reverb/Cave_Reverb" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Reverb/Cave_Reverb.uasset" SILENT=true
+[2022.09.06-01.36.27:687][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Cave_Reverb7D6ADB204C09DF27E2ACFB90D4D30B89.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Reverb/Cave_Reverb.uasset'
+[2022.09.06-01.36.27:687][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/Snapshots/Reverb/Sewer_Reverb" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Reverb/Sewer_Reverb.uasset" SILENT=true
+[2022.09.06-01.36.27:688][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/Sewer_ReverbE3AD001C43EC33A379D4CE871519A68E.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/Snapshots/Reverb/Sewer_Reverb.uasset'
+[2022.09.06-01.36.27:688][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/VCAs/Environment" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/VCAs/Environment.uasset" SILENT=true
+[2022.09.06-01.36.27:689][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/EnvironmentF9D8A380405A6C6B419C3A819F01E2FD.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/VCAs/Environment.uasset'
+[2022.09.06-01.36.27:689][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/VCAs/Equipment" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/VCAs/Equipment.uasset" SILENT=true
+[2022.09.06-01.36.27:690][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/EquipmentB855BB4442BBA6714443F6A5C2A9F869.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/VCAs/Equipment.uasset'
+[2022.09.06-01.36.27:691][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FMOD/VCAs/Player" FILE="E:/UE Projects/TestingVC/TestingVC/Content/FMOD/VCAs/Player.uasset" SILENT=true
+[2022.09.06-01.36.27:691][313]LogSavePackage: Moving 'E:/UE Projects/TestingVC/TestingVC/Saved/PlayerDD767FEA45D0F720F2420FA70A58BCD2.tmp' to 'E:/UE Projects/TestingVC/TestingVC/Content/FMOD/VCAs/Player.uasset'
+[2022.09.06-01.36.40:169][313]LogSlate: Window 'Submit Files' being destroyed
+[2022.09.06-01.36.48:426][313]LogSourceControl: commit successful: [main 279b04f] Adding in banks from 2.02.07
+[2022.09.06-01.36.49:350][313]SourceControl: [main 279b04f] Adding in banks from 2.02.07
+[2022.09.06-01.36.49:350][313]SourceControl:  50 files changed, 0 insertions(+), 0 deletions(-)
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Banks/LiveSwapInTable.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Banks/Master.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Banks/Music.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Banks/NewBankToTest.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Banks/Programmer_Instrument.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/Music.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/Programmer_Instrument.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/SFX/Ambience.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/SFX/Character.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/SFX/Explosions.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/SFX/Objects.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Ambience/City.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Ambience/Country.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Ambience/Forest.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Character/Dialogue.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Character/Door_Close.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Character/Door_Open.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Character/Enemy_Footsteps.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Character/Health.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Character/Player_Footsteps.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Character/Radio_Dialogue.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Interactables/Barrel_Roll.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Music/BabyWalk.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Music/Kart_Music.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Music/Level_01.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Music/Level_02.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Music/Level_03.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Programmer_Instruments/AddAutomation.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Programmer_Instruments/BabyElephantWalk.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Programmer_Instruments/CommandInstrument.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Programmer_Instruments/ElectricFence.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Programmer_Instruments/Intrument.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/UI/Cancel.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/UI/Okay.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/VO/Main_Menu.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Vehicles/Car_Engine.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Weapons/Explosion.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Weapons/Machine_Gun.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Weapons/Pistol.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/PrivateIntegrationData/BankLookup.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Reverbs/Health_Low.uasset
+[2022.09.06-01.36.49:350][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Reverbs/Pause.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Reverbs/Reverb/Cave_Reverb.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Snapshots/Health_Low.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Snapshots/Pause.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Snapshots/Reverb/Cave_Reverb.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/VCAs/Environment.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/VCAs/Equipment.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/VCAs/Player.uasset
+[2022.09.06-01.36.49:351][313]SourceControl: [main a3ea3a4] Adding in banks from 2.02.07
+[2022.09.06-01.36.49:351][313]SourceControl:  Date: Tue Sep 6 11:36:44 2022 +1000
+[2022.09.06-01.36.49:351][313]SourceControl:  74 files changed, 0 insertions(+), 0 deletions(-)
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Banks/LiveSwapInTable.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Banks/Master.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Banks/Music.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Banks/NewBankToTest.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Banks/Programmer_Instrument.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Banks/SFX.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Banks/TestingSound.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Banks/VO.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Banks/Vehicles.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/Music.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/Programmer_Instrument.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/SFX.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/SFX/Ambience.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/SFX/Character.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/SFX/Explosions.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/SFX/Objects.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/SFX/Reverb.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/SFX/Vehicles.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/SFX/Weapons.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/Testing.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/TestingGroup.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/UI.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Buses/VO.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Ambience/City.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Ambience/Country.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Ambience/Forest.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Character/Dialogue.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Character/Door_Close.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Character/Door_Open.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Character/Enemy_Footsteps.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Character/Health.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Character/Player_Footsteps.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Character/Radio_Dialogue.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Interactables/Barrel_Roll.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Interactables/Wooden_Collision.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Music/BabyWalk.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Music/Kart_Music.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Music/Level_01.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Music/Level_02.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Music/Level_03.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Music/Radio_Station.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Programmer_Instruments/AddAutomation.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Programmer_Instruments/BabyElephantWalk.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Programmer_Instruments/CommandInstrument.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Programmer_Instruments/ElectricFence.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Programmer_Instruments/Intrument.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Programmer_Instruments/TestSound.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/RandomSoundFromEvent.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/ReaddingEvent.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/UI/Cancel.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/UI/Okay.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/VO/Main_Menu.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/VO/Welcome.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Vehicles/Car_Engine.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Vehicles/Ride-on_Mower.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Weapons/Explosion.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Weapons/Machine_Gun.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/Weapons/Pistol.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Events/WindSpeedDepedningOnVel.uasset
+[2022.09.06-01.36.49:351][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/PrivateIntegrationData/AssetLookup.uasset
+[2022.09.06-01.36.49:352][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/PrivateIntegrationData/BankLookup.uasset
+[2022.09.06-01.36.49:352][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Reverbs/Health_Low.uasset
+[2022.09.06-01.36.49:352][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Reverbs/Pause.uasset
+[2022.09.06-01.36.49:352][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Reverbs/Reverb/Cave_Reverb.uasset
+[2022.09.06-01.36.49:352][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Reverbs/Reverb/Sewer_Reverb.uasset
+[2022.09.06-01.36.49:352][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Reverbs/Slow-Motion.uasset
+[2022.09.06-01.36.49:352][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Snapshots/Health_Low.uasset
+[2022.09.06-01.36.49:352][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Snapshots/Pause.uasset
+[2022.09.06-01.36.49:352][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Snapshots/Reverb/Cave_Reverb.uasset
+[2022.09.06-01.36.49:352][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Snapshots/Reverb/Sewer_Reverb.uasset
+[2022.09.06-01.36.49:352][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/Snapshots/Slow-Motion.uasset
+[2022.09.06-01.36.49:352][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/VCAs/Environment.uasset
+[2022.09.06-01.36.49:352][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/VCAs/Equipment.uasset
+[2022.09.06-01.36.49:352][313]SourceControl:  create mode 100644 TestingVC/Content/FMOD/VCAs/Player.uasset
+[2022.09.06-01.36.49:357][313]SourceControl: Commited [main 279b04f] Adding in banks from 2.02.07.
+[2022.09.06-01.36.49:415][314]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.06-01.36.49:415][314]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/SFX/Objects.Objects
+[2022.09.06-01.36.49:415][314]LogContentValidation: Display: Validating DataTable /Game/FMOD/PrivateIntegrationData/AssetLookup.AssetLookup
+[2022.09.06-01.36.49:415][314]LogContentValidation: Display: Validating FMODBankLookup /Game/FMOD/PrivateIntegrationData/BankLookup.BankLookup
+[2022.09.06-01.36.49:415][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Weapons/Pistol.Pistol
+[2022.09.06-01.36.49:415][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/RandomSoundFromEvent.RandomSoundFromEvent
+[2022.09.06-01.36.49:415][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Vehicles/Car_Engine.Car_Engine
+[2022.09.06-01.36.49:415][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Programmer_Instruments/TestSound.TestSound
+[2022.09.06-01.36.49:415][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Programmer_Instruments/BabyElephantWalk.BabyElephantWalk
+[2022.09.06-01.36.49:415][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Character/Enemy_Footsteps.Enemy_Footsteps
+[2022.09.06-01.36.49:415][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/WindSpeedDepedningOnVel.WindSpeedDepedningOnVel
+[2022.09.06-01.36.49:415][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Programmer_Instruments/Intrument.Intrument
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Music/Kart_Music.Kart_Music
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Programmer_Instruments/CommandInstrument.CommandInstrument
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Weapons/Explosion.Explosion
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Character/Health.Health
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Ambience/Country.Country
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/UI/Cancel.Cancel
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/Vehicles.Vehicles
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/SFX/Vehicles.Vehicles
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Programmer_Instruments/ElectricFence.ElectricFence
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/SFX/Character.Character
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODVCA /Game/FMOD/VCAs/Environment.Environment
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Character/Door_Close.Door_Close
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Character/Radio_Dialogue.Radio_Dialogue
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Ambience/Forest.Forest
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/ReaddingEvent.ReaddingEvent
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/TestingGroup.TestingGroup
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/SFX/Reverb.Reverb
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/SFX.SFX
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Character/Door_Open.Door_Open
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODVCA /Game/FMOD/VCAs/Player.Player
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/UI.UI
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/VO.VO
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODSnapshot /Game/FMOD/Snapshots/Slow-Motion.Slow-Motion
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODSnapshotReverb /Game/FMOD/Reverbs/Slow-Motion.Slow-Motion
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Music/Level_01.Level_01
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Vehicles/Ride-on_Mower.Ride-on_Mower
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/Music.Music
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/Master.Master
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODSnapshot /Game/FMOD/Snapshots/Health_Low.Health_Low
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODSnapshotReverb /Game/FMOD/Reverbs/Health_Low.Health_Low
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Programmer_Instruments/AddAutomation.AddAutomation
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/Testing.Testing
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/UI/Okay.Okay
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Character/Dialogue.Dialogue
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/Music.Music
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/VO/Main_Menu.Main_Menu
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Music/Radio_Station.Radio_Station
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Music/BabyWalk.BabyWalk
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODSnapshot /Game/FMOD/Snapshots/Reverb/Cave_Reverb.Cave_Reverb
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODSnapshotReverb /Game/FMOD/Reverbs/Reverb/Cave_Reverb.Cave_Reverb
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/Programmer_Instrument.Programmer_Instrument
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Ambience/City.City
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Interactables/Wooden_Collision.Wooden_Collision
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODVCA /Game/FMOD/VCAs/Equipment.Equipment
+[2022.09.06-01.36.49:416][314]LogContentValidation: Display: Validating FMODSnapshot /Game/FMOD/Snapshots/Reverb/Sewer_Reverb.Sewer_Reverb
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODSnapshotReverb /Game/FMOD/Reverbs/Reverb/Sewer_Reverb.Sewer_Reverb
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Interactables/Barrel_Roll.Barrel_Roll
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Music/Level_02.Level_02
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/SFX.SFX
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/Programmer_Instrument.Programmer_Instrument
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/VO.VO
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/VO/Welcome.Welcome
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/SFX/Ambience.Ambience
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/SFX/Explosions.Explosions
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODBus /Game/FMOD/Buses/SFX/Weapons.Weapons
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODSnapshot /Game/FMOD/Snapshots/Pause.Pause
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODSnapshotReverb /Game/FMOD/Reverbs/Pause.Pause
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/NewBankToTest.NewBankToTest
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Character/Player_Footsteps.Player_Footsteps
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Weapons/Machine_Gun.Machine_Gun
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/LiveSwapInTable.LiveSwapInTable
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODEvent /Game/FMOD/Events/Music/Level_03.Level_03
+[2022.09.06-01.36.49:417][314]LogContentValidation: Display: Validating FMODBank /Game/FMOD/Banks/TestingSound.TestingSound
