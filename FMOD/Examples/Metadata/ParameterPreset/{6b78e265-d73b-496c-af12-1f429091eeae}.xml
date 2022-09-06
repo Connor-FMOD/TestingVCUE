@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{6b78e265-d73b-496c-af12-1f429091eeae}">
+		<property name="name">
+			<value>PlaySound1</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a418e0de-c7d0-05c9-280a-b529dc02e12e}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{2f0adcd0-5f8c-4451-a4b3-4f70d2376fae}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{2f0adcd0-5f8c-4451-a4b3-4f70d2376fae}">
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

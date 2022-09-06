@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Platform" id="{886bec4a-6ee1-4f7d-9bbb-dadfc92bbc3b}">
+		<property name="hardwareType">
+			<value>11</value>
+		</property>
+		<property name="name">
+			<value>Xbox Series X|S</value>
+		</property>
+		<property name="subDirectory">
+			<value>Scarlett</value>
+		</property>
+		<property name="speakerFormat">
+			<value>6</value>
+		</property>
+	</object>
+</objects>
