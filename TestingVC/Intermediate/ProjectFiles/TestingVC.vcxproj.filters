@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TestingVC.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0D08EB2F-608A-4246-A64D-0EC518FB9DC1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestingVC.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TestingVCEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{52042ACD-51E3-47B6-85E1-058D847C9DDB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TestingVC">
+      <UniqueIdentifier>{D271B6AE-7B2C-403C-9BDB-969C8375D1F1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestingVC\TestingVC.Build.cs">
+      <Filter>Source\TestingVC</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TestingVC\TestingVC.cpp">
+      <Filter>Source\TestingVC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestingVC\TestingVC.h">
+      <Filter>Source\TestingVC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestingVC\TestingVCGameModeBase.cpp">
+      <Filter>Source\TestingVC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestingVC\TestingVCGameModeBase.h">
+      <Filter>Source\TestingVC</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
