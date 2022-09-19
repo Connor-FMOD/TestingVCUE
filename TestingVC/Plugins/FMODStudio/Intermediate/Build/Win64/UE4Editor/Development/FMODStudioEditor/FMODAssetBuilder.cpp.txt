@@ -1,0 +1,240 @@
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudioEditor\Classes\FMODAssetBuilder.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/AssetData.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectRedirector.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/PackageName.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerLoad.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/AssetBundleData.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/AssetDataTagMap.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Private\FMODAssetLookup.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODAssetLookup.generated.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Private\FMODAssetTable.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBank.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODAsset.generated.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODBank.generated.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Private\FMODBankLookup.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODBankLookup.generated.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBus.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODBus.generated.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODEvent.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODEvent.generated.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_common.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_codec.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp_effects.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_output.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODSettings.generated.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshot.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODSnapshot.generated.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshotReverb.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/ReverbEffect.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ReverbEffect.generated.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODSnapshotReverb.generated.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODPort.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODPort.generated.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMODUtils.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.hpp
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio_common.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.hpp
+D:\Unreal\UE_4.27\Engine\Source\Runtime/Launch/Resources/Version.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Engine.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/World.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnlineFwd.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Public\CollisionQueryParams.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\Chaos/ChaosEngineInterface.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/Declares.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/ParticleHandleFwd.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Experimental\ChaosCore\Public\Chaos/Real.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/PBDRigidsEvolutionFwd.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceDeclaresCore.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceWrapperShared.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceTypesCore.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos/CollisionFilterData.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\ChaosArchive.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\Chaos\Serializable.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/DestructionObjectVersion.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\UObject/ExternalPhysicsCustomObjectVersion.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Experimental\Chaos\Public\PhysicsProxy/SingleParticlePhysicsProxyFwd.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore\ChaosEngineInterface.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Public\WorldCollision.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\PhysicsCore\Public\CollisionShape.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ChildActorComponent.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ChildActorComponent.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\RenderCore\Public\RenderCommandFence.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/ITransaction.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\Misc\Change.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Level.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\Templates/ScopedCallback.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/MaterialMerging.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialMerging.generated.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Level.generated.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Actor.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAgentInterface.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationTypes.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationTypes.generated.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavAgentInterface.generated.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Pawn.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Blueprint.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/BlueprintCore.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintCore.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/BlueprintGeneratedClass.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintGeneratedClass.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\Blueprint/BlueprintSupport.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Blueprint.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/PendingNetGame.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine\NetworkDelegates.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PendingNetGame.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/LatentActionManager.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\LatentActionManager.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/GameInstance.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/GameInstanceSubsystem.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/Subsystem.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Subsystem.generated.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameInstanceSubsystem.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/SubsystemCollection.h
+D:\Unreal\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Settings/LevelEditorPlaySettings.h
+D:\Unreal\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Settings/LevelEditorPlayNetworkEmulationSettings.h
+D:\Unreal\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IPropertyTypeCustomization.h
+D:\Unreal\UE_4.27\Engine\Source\Editor\EditorStyle\Public\EditorStyleSet.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/StyleDefaults.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/Paths.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateNoResource.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/ISlateStyle.h
+D:\Unreal\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\PropertyHandle.h
+D:\Unreal\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\PropertyEditorModule.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SWindow.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/AES.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/SlateStructs.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Animation/CurveSequence.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Animation/CurveHandle.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\Containers/Ticker.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleAsset.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerBase.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerInterface.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleContainerInterface.generated.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleContainerBase.generated.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\SlateWidgetStyleAsset.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SBoxPanel.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SPanel.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedChildren.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SOverlay.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Styling/CoreStyle.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\FastUpdate/SlateInvalidationRoot.h
+D:\Unreal\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Toolkits/IToolkitHost.h
+D:\Unreal\UE_4.27\Engine\Source\Editor\UnrealEd\Public\Toolkits/IToolkit.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Docking/WorkspaceItem.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Docking/TabManager.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\SlateFwd.h
+D:\Unreal\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\IDetailsView.h
+D:\Unreal\UE_4.27\Engine\Source\Editor\PropertyEditor\Public\PropertyEditorDelegates.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SComboBox.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/SlateDelegates.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Application/SlateApplication.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Application/IMenu.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Application/SlateWindowHelper.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateRenderer.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Application/SlateApplicationBase.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Application/ThrottleManager.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/IToolTip.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/WidgetPath.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Layout/WidgetPath.inl
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Application/MenuStack.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Application/GestureDetector.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Application/SlateUser.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\SlateScope.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Text/STextBlock.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/SLeafWidget.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLayout.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextRunRenderer.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLineHighlight.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/IRun.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Text/ShapedTextCacheFwd.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\TextLayout.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBox.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SComboButton.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Input/SMenuAnchor.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Views/STableViewBase.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Layout/IScrollableWidget.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Views/ITypedTableView.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\ITypedTableView.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Layout/InertialScrollManager.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Layout/Overscroll.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\STableViewBase.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Views/TableViewTypeTraits.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Views/STableRow.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBorder.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Views/SExpanderArrow.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Views/SHeaderRow.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSplitter.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateCoreAccessibleWidgets.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateAccessibleWidgetCache.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateAccessibleMessageHandler.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Views/SListView.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Framework/Views/TableViewMetadata.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Types/SlateConstants.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SScrollBar.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\LevelEditorPlayNetworkEmulationSettings.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Developer\ToolMenus\Public\ToolMenuContext.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuContext.generated.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\LevelEditorPlaySettings.generated.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameInstance.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Public\Physics/PhysicsInterfaceDeclares.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/WorldPSCPool.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldPSCPool.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Public\AudioDeviceManager.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\AudioMixerCore\Public\AudioDefines.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Public\AudioThread.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/Runnable.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/WorldSubsystem.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine/Public/Tickable.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\WorldSubsystem.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine\CollisionProfile.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\DeveloperSettings\Public\Engine/DeveloperSettings.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\DeveloperSettings\DeveloperSettings.generated.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\World.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/BufferedOutputDevice.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Public\Subsystems/EngineSubsystem.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\EngineSubsystem.generated.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Engine.generated.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODVCA.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODVCA.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Editor\UnrealEd\Public\FileHelpers.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\AssetRegistry\Public\AssetData.h
+D:\Unreal\UE_4.27\Engine\Source\Editor\UnrealEd\Public\PackageTools.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PackageTools.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlProvider.h
+D:\Unreal\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlOperation.h
+D:\Unreal\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FileHelpers.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Editor\UnrealEd\Public\ObjectTools.h
+D:\Unreal\UE_4.27\Engine\Source\Developer\CollectionManager\Public\CollectionManagerTypes.h
+D:\Unreal\UE_4.27\Engine\Source\Developer\SourceControl\Public\SourceControlHelpers.h
+D:\Unreal\UE_4.27\Engine\Source\Developer\SourceControl\Public\ISourceControlRevision.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SourceControl\SourceControlHelpers.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h

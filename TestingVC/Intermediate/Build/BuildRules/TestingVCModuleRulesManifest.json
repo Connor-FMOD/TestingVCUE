@@ -1,10 +1,10 @@
 {
 	"SourceFiles": [
-		"E:\\Version Control\\TestingVCUE\\TestingVC\\Source\\TestingVC\\TestingVC.Build.cs",
-		"E:\\Version Control\\TestingVCUE\\TestingVC\\Plugins\\FMODStudio\\Source\\FMODStudio\\FMODStudio.Build.cs",
-		"E:\\Version Control\\TestingVCUE\\TestingVC\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\FMODStudioEditor.Build.cs",
-		"E:\\Version Control\\TestingVCUE\\TestingVC\\Source\\TestingVC.Target.cs",
-		"E:\\Version Control\\TestingVCUE\\TestingVC\\Source\\TestingVCEditor.Target.cs"
+		"E:\\UE Projects\\TestingVC\\TestingVC\\Source\\TestingVC\\TestingVC.Build.cs",
+		"E:\\UE Projects\\TestingVC\\TestingVC\\Plugins\\FMODStudio\\Source\\FMODStudio\\FMODStudio.Build.cs",
+		"E:\\UE Projects\\TestingVC\\TestingVC\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\FMODStudioEditor.Build.cs",
+		"E:\\UE Projects\\TestingVC\\TestingVC\\Source\\TestingVC.Target.cs",
+		"E:\\UE Projects\\TestingVC\\TestingVC\\Source\\TestingVCEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }

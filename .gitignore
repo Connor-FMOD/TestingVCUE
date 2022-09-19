@@ -114,3 +114,9 @@ TestingVC/Saved/Logs/TestingVC.log
 fmod_editor.log
 
 FMOD/Examples/.cache/
+
+FMOD/Examples/.unsaved/
+FMOD/Examples/.user/
+FMOD/Examples/.cache/
+TestingVC/Plugins/FMODStudio/Binaries
+TestingVC/Binaries

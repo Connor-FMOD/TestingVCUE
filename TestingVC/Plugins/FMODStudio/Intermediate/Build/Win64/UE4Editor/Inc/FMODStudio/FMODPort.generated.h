@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define FMODSTUDIO_FMODPort_generated_h
 
-#define HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_SPARSE_DATA
-#define HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_RPC_WRAPPERS
-#define HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_RPC_WRAPPERS_NO_PURE_DECLS
-#define HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_INCLASS_NO_PURE_DECLS \
+#define TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_SPARSE_DATA
+#define TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_RPC_WRAPPERS
+#define TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_RPC_WRAPPERS_NO_PURE_DECLS
+#define TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUFMODPort(); \
 	friend struct Z_Construct_UClass_UFMODPort_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(UFMODPort)
 
 
-#define HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_INCLASS \
+#define TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_INCLASS \
 private: \
 	static void StaticRegisterNativesUFMODPort(); \
 	friend struct Z_Construct_UClass_UFMODPort_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(UFMODPort)
 
 
-#define HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_STANDARD_CONSTRUCTORS \
+#define TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UFMODPort(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFMODPort) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_ENHANCED_CONSTRUCTORS \
+#define TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UFMODPort(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -60,28 +60,28 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFMODPort)
 
 
-#define HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_PRIVATE_PROPERTY_OFFSET
-#define HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_11_PROLOG
-#define HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_GENERATED_BODY_LEGACY \
+#define TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_PRIVATE_PROPERTY_OFFSET
+#define TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_11_PROLOG
+#define TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_SPARSE_DATA \
-	HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_RPC_WRAPPERS \
-	HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_INCLASS \
-	HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_STANDARD_CONSTRUCTORS \
+	TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_PRIVATE_PROPERTY_OFFSET \
+	TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_SPARSE_DATA \
+	TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_RPC_WRAPPERS \
+	TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_INCLASS \
+	TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_GENERATED_BODY \
+#define TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_SPARSE_DATA \
-	HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_INCLASS_NO_PURE_DECLS \
-	HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_ENHANCED_CONSTRUCTORS \
+	TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_PRIVATE_PROPERTY_OFFSET \
+	TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_SPARSE_DATA \
+	TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_INCLASS_NO_PURE_DECLS \
+	TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h_14_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class FMODPort."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -89,7 +89,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> FMODSTUDIO_API UClass* StaticClass<class UFMODPort>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h
+#define CURRENT_FILE_ID TestingVC_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODPort_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

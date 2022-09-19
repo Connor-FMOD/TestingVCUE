@@ -1,0 +1,8 @@
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio/Private/FMODBankLookup.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODBankLookup.generated.h

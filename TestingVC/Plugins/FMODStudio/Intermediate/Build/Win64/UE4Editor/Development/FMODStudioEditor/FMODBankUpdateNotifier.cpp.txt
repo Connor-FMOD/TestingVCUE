@@ -1,0 +1,10 @@
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODBankUpdateNotifier.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_common.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_codec.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp_effects.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_output.h
+E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODSettings.generated.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
+D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h

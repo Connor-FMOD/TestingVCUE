@@ -1,2 +1,2 @@
-E:\Version Control\TestingVCUE\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\Definitions.TestingVC.h
-E:\Version Control\TestingVCUE\TestingVC\Source\TestingVC\TestingVC.h
+E:\UE Projects\TestingVC\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\Definitions.TestingVC.h
+E:\UE Projects\TestingVC\TestingVC\Source\TestingVC\TestingVC.h

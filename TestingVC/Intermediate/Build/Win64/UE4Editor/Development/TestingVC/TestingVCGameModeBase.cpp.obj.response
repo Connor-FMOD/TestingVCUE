@@ -32,8 +32,8 @@
 /wd4244
 /wd4838
 /I .
-/I "E:\Version Control\TestingVCUE\TestingVC\Intermediate\Build\Win64\UE4Editor\Inc\TestingVC"
-/I "E:\Version Control\TestingVCUE\TestingVC\Source"
+/I "E:\UE Projects\TestingVC\TestingVC\Intermediate\Build\Win64\UE4Editor\Inc\TestingVC"
+/I "E:\UE Projects\TestingVC\TestingVC\Source"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -262,12 +262,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"E:\Version Control\TestingVCUE\TestingVC\Intermediate\Build\Win64\TestingVCEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"E:\Version Control\TestingVCUE\TestingVC\Intermediate\Build\Win64\TestingVCEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"E:\Version Control\TestingVCUE\TestingVC\Intermediate\Build\Win64\TestingVCEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"E:\Version Control\TestingVCUE\TestingVC\Source\TestingVC\TestingVCGameModeBase.cpp"
-/FI"E:\Version Control\TestingVCUE\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\Definitions.TestingVC.h"
-/Fo"E:\Version Control\TestingVCUE\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\TestingVCGameModeBase.cpp.obj"
+/FI"E:\UE Projects\TestingVC\TestingVC\Intermediate\Build\Win64\TestingVCEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"E:\UE Projects\TestingVC\TestingVC\Intermediate\Build\Win64\TestingVCEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"E:\UE Projects\TestingVC\TestingVC\Intermediate\Build\Win64\TestingVCEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"E:\UE Projects\TestingVC\TestingVC\Source\TestingVC\TestingVCGameModeBase.cpp"
+/FI"E:\UE Projects\TestingVC\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\Definitions.TestingVC.h"
+/Fo"E:\UE Projects\TestingVC\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\TestingVCGameModeBase.cpp.obj"
 /TP
 /GR-
 /W4

@@ -6,10 +6,10 @@
 /NAME:"UE4Editor-TestingVC.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"E:\UE Projects\TestingVC\TestingVC\Intermediate\Build\Win64\TestingVCEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"E:\UE Projects\TestingVC\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\TestingVC.cpp.obj"
-"E:\UE Projects\TestingVC\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\TestingVCGameModeBase.cpp.obj"
-"E:\UE Projects\TestingVC\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\TestingVC.init.gen.cpp.obj"
-"E:\UE Projects\TestingVC\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\TestingVCGameModeBase.gen.cpp.obj"
-"E:\UE Projects\TestingVC\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\Default.rc2.res"
-/OUT:"E:\UE Projects\TestingVC\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\UE4Editor-TestingVC.lib"
+"E:\Version Control\TestingVCUE\TestingVC\Intermediate\Build\Win64\TestingVCEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Version Control\TestingVCUE\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\TestingVC.cpp.obj"
+"E:\Version Control\TestingVCUE\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\TestingVCGameModeBase.cpp.obj"
+"E:\Version Control\TestingVCUE\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\TestingVC.init.gen.cpp.obj"
+"E:\Version Control\TestingVCUE\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\TestingVCGameModeBase.gen.cpp.obj"
+"E:\Version Control\TestingVCUE\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\Default.rc2.res"
+/OUT:"E:\Version Control\TestingVCUE\TestingVC\Intermediate\Build\Win64\UE4Editor\Development\TestingVC\UE4Editor-TestingVC.lib"
