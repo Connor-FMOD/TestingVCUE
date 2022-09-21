@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{ca27af30-7a50-44b3-a1be-148ea30b122d}">
+		<property name="name">
+			<value>AddAutomation</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a418e0de-c7d0-05c9-280a-b529dc02e12e}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{f778c480-d717-40d7-9a57-e0d910eebd3a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{f778c480-d717-40d7-9a57-e0d910eebd3a}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

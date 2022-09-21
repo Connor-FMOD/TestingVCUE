@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Platform" id="{2b66f1d5-d8c0-421b-9b2e-f6a6fdd4fcb8}">
+		<property name="hardwareType">
+			<value>10</value>
+		</property>
+		<property name="name">
+			<value>PlayStation 5</value>
+		</property>
+		<property name="subDirectory">
+			<value>PS5</value>
+		</property>
+		<property name="speakerFormat">
+			<value>5</value>
+		</property>
+	</object>
+</objects>
