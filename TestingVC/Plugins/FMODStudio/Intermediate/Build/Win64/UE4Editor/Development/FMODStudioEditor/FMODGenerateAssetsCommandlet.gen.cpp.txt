@@ -1,7 +1,0 @@
-D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Unreal\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
-E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudioEditor/Classes/FMODGenerateAssetsCommandlet.h
-D:\Unreal\UE_4.27\Engine\Source\Runtime\Engine\Classes\Commandlets/Commandlet.h
-D:\Unreal\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Commandlet.generated.h
-E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudioEditor\FMODGenerateAssetsCommandlet.generated.h

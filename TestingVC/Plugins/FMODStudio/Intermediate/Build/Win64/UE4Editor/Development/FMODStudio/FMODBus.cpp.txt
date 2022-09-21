@@ -1,8 +1,0 @@
-E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBus.h
-E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
-E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODAsset.generated.h
-E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODBus.generated.h
-E:\UE Projects\TestingVC\TestingVC\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
-D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
-D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
-D:\Unreal\UE_4.27\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
